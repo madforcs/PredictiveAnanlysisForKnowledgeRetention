@@ -1,0 +1,601 @@
+First name,Surname,ID number,Institution,Department,Email address,PRN,Roll No,Assignment(20),Forum(5),Quiz Unit 1(20),Inclass Assessment(20),Course total (65),Last downloaded from this course,Outcome
+101,Aabhinav Singh,,MIT Academy of Engineering,Computer Science,Aabhinav Singh,120190001,101,1,2,5,2,10,1.64E+09,Poor
+102,Aditi Bobade,,MIT Academy of Engineering,Mechnical Engineering,Aditi Bobade,120190002,102,17,4,13,18,52,1.64E+09,Average
+103,Adwait Thangan,,MIT Academy of Engineering,Chemical Engineering,Adwait Thangan,120190003,103,18,5,17,17,57,1.64E+09,Good
+104,Akhil Chopde,,MIT Academy of Engineering,Electronic and Telecommunication,Akhil Chopde,120190004,104,19,5,18,20,62,1.64E+09,Good
+105,Gaurav Aundkar,,MIT Academy of Engineering,Electrical Engineering,Gaurav Aundkar,120190005,105,13,4,8,12,37,1.64E+09,Average
+106,Avishkar Nikam,,MIT Academy of Engineering,Civil Engineering,Avishkar Nikam,120190006,106,14,4,12,13,43,1.64E+09,Average
+107,Nandini barkul,,MIT Academy of Engineering,Information Technology,Nandini barkul,120190007,107,16,4,10,18,48,1.64E+09,Average
+108,Lokesh Bhangale,,MIT Academy of Engineering,Computer Science,Lokesh Bhangale,120190008,108,3,1,12,15,31,1.64E+09,Poor
+109,Anish Bhat,,MIT Academy of Engineering,Mechnical Engineering,Anish Bhat,120190009,109,8,4,12,10,34,1.64E+09,Poor
+110,Haridas Bhidave,,MIT Academy of Engineering,Chemical Engineering,Haridas Bhidave,120190010,110,2,0,5,7,14,1.64E+09,Poor
+111,Yashwardhan Bhise,,MIT Academy of Engineering,Electronic and Telecommunication,Yashwardhan Bhise,120190011,111,1,0,6,8,15,1.64E+09,Poor
+112,Manav Bhosale,,MIT Academy of Engineering,Electrical Engineering,Manav Bhosale,120190012,112,3,0,7,10,20,1.64E+09,Poor
+113,Akshata Bhosle,,MIT Academy of Engineering,Civil Engineering,Akshata Bhosle,120190013,113,4,2,13,13,32,1.64E+09,Poor
+114,Pranali Bhujbal,,MIT Academy of Engineering,Information Technology,Pranali Bhujbal,120190014,114,12,5,13,11,41,1.64E+09,Average
+115,Sahil Bhutada,,MIT Academy of Engineering,Computer Science,Sahil Bhutada,120190015,115,12,5,11,13,41,1.64E+09,Average
+116,Akshay Bhodke,,MIT Academy of Engineering,Mechnical Engineering,Akshay Bhodke,120190016,116,1,1,0,7,9,1.64E+09,Poor
+117,Pranav Budge,,MIT Academy of Engineering,Chemical Engineering,Pranav Budge,120190017,117,20,4,15,16,55,1.64E+09,Good
+118,Prachi Channe,,MIT Academy of Engineering,Electronic and Telecommunication,Prachi Channe,120190018,118,2,4,6,7,19,1.64E+09,Poor
+119,Yash Charpe,,MIT Academy of Engineering,Electrical Engineering,Yash Charpe,120190019,119,9,4,3,11,27,1.64E+09,Poor
+120,Divya Chaudhari,,MIT Academy of Engineering,Civil Engineering,Divya Chaudhari,120190020,120,8,4,14,16,42,1.64E+09,Average
+121,Adesh Chirayu,,MIT Academy of Engineering,Information Technology,Adesh Chirayu,120190021,121,18,5,18,16,57,1.64E+09,Good
+122,Prutviraje Deshmukh,,MIT Academy of Engineering,Computer Science,Prutviraje Deshmukh,120190022,122,4,2,3,2,11,1.64E+09,Poor
+123,Shubham Deshmukh,,MIT Academy of Engineering,Mechnical Engineering,Shubham Deshmukh,120190023,123,19,5,20,18,62,1.64E+09,Good
+124,Aniket Dhote,,MIT Academy of Engineering,Chemical Engineering,Aniket Dhote,120190024,124,4,2,16,12,34,1.64E+09,Poor
+125,Eva Khajuria,,MIT Academy of Engineering,Electronic and Telecommunication,Eva Khajuria,120190025,125,12,3,15,0,30,1.64E+09,Poor
+126,Niranjan Gadge,,MIT Academy of Engineering,Electrical Engineering,Niranjan Gadge,120190026,126,9,3,11,10,33,1.64E+09,Poor
+127,Mahesh Gaikwad,,MIT Academy of Engineering,Civil Engineering,Mahesh Gaikwad,120190027,127,15,5,17,14,51,1.64E+09,Average
+128,Sushant Gawade,,MIT Academy of Engineering,Information Technology,Sushant Gawade,120190028,128,18,5,12,13,48,1.64E+09,Average
+129,Yogesh Gorde,,MIT Academy of Engineering,Computer Science,Yogesh Gorde,120190029,129,0,3,13,13,29,1.64E+09,Poor
+130,Sumit Hale,,MIT Academy of Engineering,Mechnical Engineering,Sumit Hale,120190030,130,10,3,11,13,37,1.64E+09,Average
+131,Tanmay ikare,,MIT Academy of Engineering,Chemical Engineering,Tanmay ikare,120190031,131,8,4,8,14,34,1.64E+09,Poor
+132,Hardik Jade,,MIT Academy of Engineering,Electronic and Telecommunication,Hardik Jade,120190032,132,13,4,15,14,46,1.64E+09,Average
+133,Vaishnavi Jadhav,,MIT Academy of Engineering,Electrical Engineering,Vaishnavi Jadhav,120190033,133,12,5,12,12,41,1.64E+09,Average
+134,Yash Jaware,,MIT Academy of Engineering,Civil Engineering,Yash Jaware,120190034,134,3,4,1,5,13,1.64E+09,Poor
+135,Shantanu Kadam,,MIT Academy of Engineering,Information Technology,Shantanu Kadam,120190035,135,5,4,7,5,21,1.64E+09,Poor
+136,Shreya Karmankar,,MIT Academy of Engineering,Computer Science,Shreya Karmankar,120190036,136,9,1,8,10,28,1.64E+09,Poor
+137,Tanmay Kathane,,MIT Academy of Engineering,Mechnical Engineering,Tanmay Kathane,120190037,137,13,4,17,14,48,1.64E+09,Average
+138,Prathamesh Kolawale,,MIT Academy of Engineering,Chemical Engineering,Prathamesh Kolawale,120190038,138,3,1,4,7,15,1.64E+09,Poor
+139,Siddharth Koli,,MIT Academy of Engineering,Electronic and Telecommunication,Siddharth Koli,120190039,139,11,3,10,10,34,1.64E+09,Poor
+140,Shubham Kotgire,,MIT Academy of Engineering,Electrical Engineering,Shubham Kotgire,120190040,140,11,5,13,9,38,1.64E+09,Average
+141,Atharva Kumbhar,,MIT Academy of Engineering,Civil Engineering,Atharva Kumbhar,120190041,141,18,1,4,11,34,1.64E+09,Poor
+142,Gaurav Likhar,,MIT Academy of Engineering,Information Technology,Gaurav Likhar,120190042,142,12,2,12,10,36,1.64E+09,Average
+143,Pradeep Lolabhattu,,MIT Academy of Engineering,Computer Science,Pradeep Lolabhattu,120190043,143,4,2,8,15,29,1.64E+09,Poor
+144,Rutik Mahadik,,MIT Academy of Engineering,Mechnical Engineering,Rutik Mahadik,120190044,144,5,3,9,8,25,1.64E+09,Poor
+145,Varun Manaji,,MIT Academy of Engineering,Chemical Engineering,Varun Manaji,120190045,145,12,4,14,12,42,1.64E+09,Average
+146,Mansi Singh,,MIT Academy of Engineering,Electronic and Telecommunication,Mansi Singh,120190046,146,8,3,9,7,27,1.64E+09,Poor
+147,Madhav Mokashi,,MIT Academy of Engineering,Electrical Engineering,Madhav Mokashi,120190047,147,8,3,9,9,29,1.64E+09,Poor
+148,Mukesh Gurpute,,MIT Academy of Engineering,Civil Engineering,Mukesh Gurpute,120190048,148,14,5,16,0,35,1.64E+09,Average
+149,Muskan kumari,,MIT Academy of Engineering,Information Technology,Muskan kumari,120190049,149,19,5,20,17,61,1.64E+09,Good
+150,Tanisha Nazare,,MIT Academy of Engineering,Computer Science,Tanisha Nazare,120190050,150,17,5,20,16,58,1.64E+09,Good
+151,Omkar Nehere,,MIT Academy of Engineering,Mechnical Engineering,Omkar Nehere,120190051,151,2,2,2,3,9,1.64E+09,Poor
+152,Kirti Nikam,,MIT Academy of Engineering,Chemical Engineering,Kirti Nikam,120190052,152,7,3,14,12,36,1.64E+09,Average
+153,Pradeep Nikita,,MIT Academy of Engineering,Electronic and Telecommunication,Pradeep Nikita,120190053,153,0,4,16,16,36,1.64E+09,Average
+154,Sakshi Patil,,MIT Academy of Engineering,Electrical Engineering,Sakshi Patil,120190054,154,18,4,15,19,56,1.64E+09,Good
+155,Sakshi Pujari,,MIT Academy of Engineering,Civil Engineering,Sakshi Pujari,120190055,155,2,1,6,0,9,1.64E+09,Poor
+156,Rishikesh Chapekar,,MIT Academy of Engineering,Information Technology,Rishikesh Chapekar,120190056,156,16,2,12,0,30,1.64E+09,Poor
+157,Sahil sharma,,MIT Academy of Engineering,Computer Science,Sahil sharma,120190057,157,16,1,7,14,38,1.64E+09,Average
+158,Sandeep Lokhande,,MIT Academy of Engineering,Mechnical Engineering,Sandeep Lokhande,120190058,158,15,3,13,13,44,1.64E+09,Average
+159,Sarth Kumar,,MIT Academy of Engineering,Chemical Engineering,Sarth Kumar,120190059,159,16,4,11,15,46,1.64E+09,Average
+160,Prathamesh Sawant,,MIT Academy of Engineering,Electronic and Telecommunication,Prathamesh Sawant,120190060,160,20,4,20,20,64,1.64E+09,Good
+161,Sadaf Shaikh,,MIT Academy of Engineering,Electrical Engineering,Sadaf Shaikh,120190061,161,20,1,17,16,54,1.64E+09,Average
+162,Vaibhav Shinde,,MIT Academy of Engineering,Civil Engineering,Vaibhav Shinde,120190062,162,11,5,19,15,50,1.64E+09,Average
+163,Dashmesh Singh,,MIT Academy of Engineering,Information Technology,Dashmesh Singh,120190063,163,9,4,6,8,27,1.64E+09,Poor
+164,Sneha Sethi,,MIT Academy of Engineering,Computer Science,Sneha Sethi,120190064,164,3,1,9,12,25,1.64E+09,Poor
+165,Suparna Das,,MIT Academy of Engineering,Mechnical Engineering,Suparna Das,120190065,165,9,3,12,10,34,1.64E+09,Poor
+166,Tanishka Nair,,MIT Academy of Engineering,Chemical Engineering,Tanishka Nair,120190066,166,4,2,6,8,20,1.64E+09,Poor
+167,Dhanashree Telang,,MIT Academy of Engineering,Electronic and Telecommunication,Dhanashree Telang,120190067,167,12,3,11,13,39,1.64E+09,Average
+168,Vidhi Thakre,,MIT Academy of Engineering,Electrical Engineering,Vidhi Thakre,120190068,168,10,4,18,15,47,1.64E+09,Average
+169,Animesh Thakre,,MIT Academy of Engineering,Civil Engineering,Animesh Thakre,120190069,169,7,3,8,11,29,1.64E+09,Poor
+170,Rushikesh Thange,,MIT Academy of Engineering,Information Technology,Rushikesh Thange,120190070,170,3,0,9,10,22,1.64E+09,Poor
+171,Udyanraje Bhosale,,MIT Academy of Engineering,Computer Science,Udyanraje Bhosale,120190071,171,16,4,18,19,57,1.64E+09,Good
+172,Atharva Umbarkar,,MIT Academy of Engineering,Mechnical Engineering,Atharva Umbarkar,120190072,172,5,1,6,8,20,1.64E+09,Poor
+173,Pratiksha Waghamode,,MIT Academy of Engineering,Chemical Engineering,Pratiksha Waghamode,120190073,173,13,4,11,14,42,1.64E+09,Average
+174,Siddhant Yeole,,MIT Academy of Engineering,Electronic and Telecommunication,Siddhant Yeole,120190074,174,4,2,12,11,29,1.64E+09,Poor
+175,Atharva Mahajan,,MIT Academy of Engineering,Electrical Engineering,Atharva Mahajan,120190075,175,6,2,4,7,19,1.64E+09,Poor
+201,Abhijit Dukare,,MIT Academy of Engineering,Civil Engineering,Abhijit Dukare,120190076,201,12,3,16,17,48,1.64E+09,Average
+202,SHarwari Ambade,,MIT Academy of Engineering,Information Technology,SHarwari Ambade,120190077,202,15,4,18,18,55,1.64E+09,Good
+203,Shruti Anasane,,MIT Academy of Engineering,Computer Science,Shruti Anasane,120190078,203,9,2,13,15,39,1.64E+09,Average
+204,Aniket Aradwad,,MIT Academy of Engineering,Mechnical Engineering,Aniket Aradwad,120190079,204,5,1,7,5,18,1.64E+09,Poor
+205,Akash Athani,,MIT Academy of Engineering,Chemical Engineering,Akash Athani,120190080,205,9,1,9,10,29,1.64E+09,Poor
+206,Ayush Choudhary,,MIT Academy of Engineering,Electronic and Telecommunication,Ayush Choudhary,120190081,206,17,4,18,15,54,1.64E+09,Average
+207,Yash Bagul,,MIT Academy of Engineering,Electrical Engineering,Yash Bagul,120190082,207,12,4,14,14,44,1.64E+09,Average
+208,Yash bansod,,MIT Academy of Engineering,Civil Engineering,Yash bansod,120190083,208,5,1,8,3,17,1.64E+09,Poor
+209,Aditya Bedre,,MIT Academy of Engineering,Information Technology,Aditya Bedre,120190084,209,11,2,10,15,38,1.64E+09,Average
+210,Kshanik Bhagat,,MIT Academy of Engineering,Computer Science,Kshanik Bhagat,120190085,210,5,2,6,9,22,1.64E+09,Poor
+211,Soham Bharambe,,MIT Academy of Engineering,Mechnical Engineering,Soham Bharambe,120190086,211,11,3,13,13,40,1.64E+09,Average
+212,Sahil Bhawani,,MIT Academy of Engineering,Chemical Engineering,Sahil Bhawani,120190087,212,4,2,6,4,16,1.64E+09,Poor
+213,Ganesh Bhojane,,MIT Academy of Engineering,Electronic and Telecommunication,Ganesh Bhojane,120190088,213,19,5,15,18,57,1.64E+09,Good
+214,Purvi bhoyar,,MIT Academy of Engineering,Electrical Engineering,Purvi bhoyar,120190089,214,13,4,12,12,41,1.64E+09,Average
+215,Onkar bilure,,MIT Academy of Engineering,Civil Engineering,Onkar bilure,120190090,215,4,1,6,6,17,1.64E+09,Poor
+216,Amol Biradar,,MIT Academy of Engineering,Information Technology,Amol Biradar,120190091,216,10,3,11,10,34,1.64E+09,Poor
+217,Sayali Chaudhari,,MIT Academy of Engineering,Computer Science,Sayali Chaudhari,120190092,217,12,2,12,10,36,1.64E+09,Average
+218,Ashwini chavan,,MIT Academy of Engineering,Mechnical Engineering,Ashwini chavan,120190093,218,20,5,19,15,59,1.64E+09,Good
+219,Shreya Chavhan,,MIT Academy of Engineering,Chemical Engineering,Shreya Chavhan,120190094,219,4,3,7,7,21,1.64E+09,Poor
+220,Mihir Daiv,,MIT Academy of Engineering,Electronic and Telecommunication,Mihir Daiv,120190095,220,10,3,10,16,39,1.64E+09,Average
+221,Shrikant Deshmukh,,MIT Academy of Engineering,Electrical Engineering,Shrikant Deshmukh,120190096,221,13,3,13,13,42,1.64E+09,Average
+222,Prathamesh Deshmukh,,MIT Academy of Engineering,Civil Engineering,Prathamesh Deshmukh,120190097,222,6,2,8,10,26,1.64E+09,Poor
+223,Omkar Dhumne,,MIT Academy of Engineering,Information Technology,Omkar Dhumne,120190098,223,3,1,6,6,16,1.64E+09,Poor
+224,Falguni Charde,,MIT Academy of Engineering,Computer Science,Falguni Charde,120190099,224,2,1,8,9,20,1.64E+09,Poor
+225,Mayur Gadhave,,MIT Academy of Engineering,Mechnical Engineering,Mayur Gadhave,120190100,225,12,3,13,15,43,1.64E+09,Average
+226,Nikita Garudkar,,MIT Academy of Engineering,Chemical Engineering,Nikita Garudkar,120190101,226,12,3,15,17,47,1.64E+09,Average
+227,Gautam Das,,MIT Academy of Engineering,Electronic and Telecommunication,Gautam Das,120190102,227,11,4,13,13,41,1.64E+09,Average
+228,Gautam Chhanulal,,MIT Academy of Engineering,Electrical Engineering,Gautam Chhanulal,120190103,228,6,5,8,8,27,1.64E+09,Poor
+229,Pranjal Gawali,,MIT Academy of Engineering,Civil Engineering,Pranjal Gawali,120190104,229,14,3,15,16,48,1.64E+09,Average
+230,Prasad Gore,,MIT Academy of Engineering,Information Technology,Prasad Gore,120190105,230,2,2,10,9,23,1.64E+09,Poor
+231,Mayank Harer,,MIT Academy of Engineering,Computer Science,Mayank Harer,120190106,231,5,2,8,8,23,1.64E+09,Poor
+232,Sanket Haude,,MIT Academy of Engineering,Mechnical Engineering,Sanket Haude,120190107,232,2,1,9,10,22,1.64E+09,Poor
+233,Tejas Kalje,,MIT Academy of Engineering,Chemical Engineering,Tejas Kalje,120190108,233,8,3,7,7,25,1.64E+09,Poor
+234,Akshay Kapase,,MIT Academy of Engineering,Electronic and Telecommunication,Akshay Kapase,120190109,234,15,5,13,16,49,1.64E+09,Average
+235,Pratik Karle,,MIT Academy of Engineering,Electrical Engineering,Pratik Karle,120190110,235,9,4,10,13,36,1.64E+09,Average
+236,Karthik Gunturi,,MIT Academy of Engineering,Civil Engineering,Karthik Gunturi,120190111,236,6,3,8,8,25,1.64E+09,Poor
+237,Yashraj Kharade,,MIT Academy of Engineering,Information Technology,Yashraj Kharade,120190112,237,9,4,10,15,38,1.64E+09,Average
+238,Dhiraj Komb,,MIT Academy of Engineering,Computer Science,Dhiraj Komb,120190113,238,7,3,6,8,24,1.64E+09,Poor
+239,Adarsh Korde,,MIT Academy of Engineering,Mechnical Engineering,Adarsh Korde,120190114,239,9,3,10,10,32,1.64E+09,Poor
+240,Krishnakant Kumar,,MIT Academy of Engineering,Chemical Engineering,Krishnakant Kumar,120190115,240,18,5,16,18,57,1.64E+09,Good
+241,Onkar Kulkarni,,MIT Academy of Engineering,Electronic and Telecommunication,Onkar Kulkarni,120190116,241,15,4,17,18,54,1.64E+09,Average
+242,Shweta Kumar,,MIT Academy of Engineering,Electrical Engineering,Shweta Kumar,120190117,242,17,4,15,14,50,1.64E+09,Average
+243,Tanmay Kurjekar,,MIT Academy of Engineering,Civil Engineering,Tanmay Kurjekar,120190118,243,14,4,15,16,49,1.64E+09,Average
+244,Tejas Lichade,,MIT Academy of Engineering,Information Technology,Tejas Lichade,120190119,244,11,4,13,11,39,1.64E+09,Average
+245,Kunal Lokhande,,MIT Academy of Engineering,Computer Science,Kunal Lokhande,120190120,245,7,3,10,10,30,1.64E+09,Poor
+246,Madhurendra Kumar,,MIT Academy of Engineering,Mechnical Engineering,Madhurendra Kumar,120190121,246,4,0,0,4,8,1.64E+09,Poor
+247,Sayali madkar,,MIT Academy of Engineering,Chemical Engineering,Sayali madkar,120190122,247,11,3,12,11,37,1.64E+09,Average
+248,Ajay Mahajan,,MIT Academy of Engineering,Electronic and Telecommunication,Ajay Mahajan,120190123,248,1,0,14,9,24,1.64E+09,Poor
+249,Avishkar Mali,,MIT Academy of Engineering,Electrical Engineering,Avishkar Mali,120190124,249,3,2,5,7,17,1.64E+09,Poor
+250,Ketaki Mankar,,MIT Academy of Engineering,Civil Engineering,Ketaki Mankar,120190125,250,20,4,20,18,62,1.64E+09,Good
+251,Mayasir Yasir,,MIT Academy of Engineering,Information Technology,Mayasir Yasir,120190126,251,13,3,15,13,44,1.64E+09,Average
+252,Abahs Modak,,MIT Academy of Engineering,Computer Science,Abahs Modak,120190127,252,6,3,8,7,24,1.64E+09,Poor
+253,Dhiraj Patil,,MIT Academy of Engineering,Mechnical Engineering,Dhiraj Patil,120190128,253,7,3,8,6,24,1.64E+09,Poor
+254,Ankita Patsute,,MIT Academy of Engineering,Chemical Engineering,Ankita Patsute,120190129,254,16,4,15,15,50,1.64E+09,Average
+255,Abhishek Pawar,,MIT Academy of Engineering,Electronic and Telecommunication,Abhishek Pawar,120190130,255,17,4,17,16,54,1.64E+09,Average
+256,Mayur Pawar,,MIT Academy of Engineering,Electrical Engineering,Mayur Pawar,120190131,256,15,5,18,15,53,1.64E+09,Average
+257,Mahit Pawar,,MIT Academy of Engineering,Civil Engineering,Mahit Pawar,120190132,257,15,5,14,16,50,1.64E+09,Average
+258,Komal Phutane,,MIT Academy of Engineering,Information Technology,Komal Phutane,120190133,258,9,3,10,12,34,1.64E+09,Poor
+259,Mahesh Pinnarwar,,MIT Academy of Engineering,Computer Science,Mahesh Pinnarwar,120190134,259,20,4,19,17,60,1.64E+09,Good
+260,Adarsh Prakhar,,MIT Academy of Engineering,Mechnical Engineering,Adarsh Prakhar,120190135,260,19,4,20,20,63,1.64E+09,Good
+261,Soham Raut,,MIT Academy of Engineering,Chemical Engineering,Soham Raut,120190136,261,8,2,9,11,30,1.64E+09,Poor
+262,Prathamesh Sadakal,,MIT Academy of Engineering,Electronic and Telecommunication,Prathamesh Sadakal,120190137,262,10,2,10,15,37,1.64E+09,Average
+263,Tejas Sangale,,MIT Academy of Engineering,Electrical Engineering,Tejas Sangale,120190138,263,6,0,7,10,23,1.64E+09,Poor
+264,Sameer Sha,,MIT Academy of Engineering,Civil Engineering,Sameer Sha,120190139,264,3,0,10,13,26,1.64E+09,Poor
+265,Tauhid Shaikh,,MIT Academy of Engineering,Information Technology,Tauhid Shaikh,120190140,265,19,4,16,17,56,1.64E+09,Good
+266,Kaustubh Shelar,,MIT Academy of Engineering,Computer Science,Kaustubh Shelar,120190141,266,15,4,14,18,51,1.64E+09,Average
+267,Shilpi Roy,,MIT Academy of Engineering,Mechnical Engineering,Shilpi Roy,120190142,267,0,0,6,7,13,1.64E+09,Poor
+268,Shivam Shinde,,MIT Academy of Engineering,Chemical Engineering,Shivam Shinde,120190143,268,19,5,16,19,59,1.64E+09,Good
+269,Shruti Pawar,,MIT Academy of Engineering,Electronic and Telecommunication,Shruti Pawar,120190144,269,20,5,17,17,59,1.64E+09,Good
+270,Kedar Shukla,,MIT Academy of Engineering,Electrical Engineering,Kedar Shukla,120190145,270,12,4,15,14,45,1.64E+09,Average
+271,Om thakur,,MIT Academy of Engineering,Civil Engineering,Om thakur,120190146,271,7,2,6,7,22,1.64E+09,Poor
+272,Tejas Thawari,,MIT Academy of Engineering,Information Technology,Tejas Thawari,120190147,272,5,2,5,8,20,1.64E+09,Poor
+273,Priyanshu Tripathi,,MIT Academy of Engineering,Computer Science,Priyanshu Tripathi,120190148,273,19,4,15,15,53,1.64E+09,Average
+274,Tushar Patil,,MIT Academy of Engineering,Mechnical Engineering,Tushar Patil,120190149,274,2,1,4,8,15,1.64E+09,Poor
+275,Chaitanya Wagh,,MIT Academy of Engineering,Chemical Engineering,Chaitanya Wagh,120190150,275,13,3,15,14,45,1.64E+09,Average
+301,Aaditya Barve,,MIT Academy of Engineering,Electronic and Telecommunication,Aaditya Barve,120190151,301,12,3,17,14,46,1.64E+09,Average
+302,Aaditya Faye,,MIT Academy of Engineering,Electrical Engineering,Aaditya Faye,120190152,302,6,1,7,8,22,1.64E+09,Poor
+303,Abhishek Padha,,MIT Academy of Engineering,Civil Engineering,Abhishek Padha,120190153,303,17,4,14,16,51,1.64E+09,Average
+304,Aaditya Balowria,,MIT Academy of Engineering,Information Technology,Aaditya Balowria,120190154,304,17,3,14,15,49,1.64E+09,Average
+305,Anansh Gupta,,MIT Academy of Engineering,Computer Science,Anansh Gupta,120190155,305,12,2,6,13,33,1.64E+09,Poor
+306,Anuja Barge,,MIT Academy of Engineering,Mechnical Engineering,Anuja Barge,120190156,306,18,4,15,13,50,1.64E+09,Average
+307,Nandini Bawankar,,MIT Academy of Engineering,Chemical Engineering,Nandini Bawankar,120190157,307,11,3,15,14,43,1.64E+09,Average
+308,Rohan Bhadane,,MIT Academy of Engineering,Electronic and Telecommunication,Rohan Bhadane,120190158,308,17,4,17,15,53,1.64E+09,Average
+309,Pratik Bhange,,MIT Academy of Engineering,Electrical Engineering,Pratik Bhange,120190159,309,4,1,7,11,23,1.64E+09,Poor
+310,Vedan Bhavsar,,MIT Academy of Engineering,Civil Engineering,Vedan Bhavsar,120190160,310,4,1,9,10,24,1.64E+09,Poor
+311,Ranjeet bhosale,,MIT Academy of Engineering,Information Technology,Ranjeet bhosale,120190161,311,1,0,5,8,14,1.64E+09,Poor
+312,Lalit Chacharkar,,MIT Academy of Engineering,Computer Science,Lalit Chacharkar,120190162,312,15,3,17,15,50,1.64E+09,Average
+313,Charudatta Topare,,MIT Academy of Engineering,Mechnical Engineering,Charudatta Topare,120190163,313,15,3,15,17,50,1.64E+09,Average
+314,Shivhar Chate,,MIT Academy of Engineering,Chemical Engineering,Shivhar Chate,120190164,314,6,2,7,9,24,1.64E+09,Poor
+315,Rameshwar Chavan,,MIT Academy of Engineering,Electronic and Telecommunication,Rameshwar Chavan,120190165,315,11,3,13,14,41,1.64E+09,Average
+316,Santoshwar Deep,,MIT Academy of Engineering,Electrical Engineering,Santoshwar Deep,120190166,316,20,4,17,16,57,1.64E+09,Good
+317,Yogam Dekate,,MIT Academy of Engineering,Civil Engineering,Yogam Dekate,120190167,317,2,0,8,10,20,1.64E+09,Poor
+318,Snehal Dere,,MIT Academy of Engineering,Information Technology,Snehal Dere,120190168,318,5,2,8,10,25,1.64E+09,Poor
+319,Manasi Deshpande,,MIT Academy of Engineering,Computer Science,Manasi Deshpande,120190169,319,19,4,14,15,52,1.64E+09,Average
+320,Snaket Dhamshedwar,,MIT Academy of Engineering,Mechnical Engineering,Snaket Dhamshedwar,120190170,320,14,3,12,16,45,1.64E+09,Average
+321,Samruddhi Dhanvijay,,MIT Academy of Engineering,Chemical Engineering,Samruddhi Dhanvijay,120190171,321,6,2,8,10,26,1.64E+09,Poor
+322,Ritiket Dukare,,MIT Academy of Engineering,Electronic and Telecommunication,Ritiket Dukare,120190172,322,15,4,12,16,47,1.64E+09,Average
+323,Kiran Fartade,,MIT Academy of Engineering,Electrical Engineering,Kiran Fartade,120190173,323,10,2,13,15,40,1.64E+09,Average
+324,Kunal Gedam,,MIT Academy of Engineering,Civil Engineering,Kunal Gedam,120190174,324,9,2,10,16,37,1.64E+09,Average
+325,Yashodhan Ghule,,MIT Academy of Engineering,Information Technology,Yashodhan Ghule,120190175,325,18,4,16,17,55,1.64E+09,Good
+326,Gourav Gupta,,MIT Academy of Engineering,Computer Science,Gourav Gupta,120190176,326,13,3,14,16,46,1.64E+09,Average
+327,Ashish Gurav,,MIT Academy of Engineering,Mechnical Engineering,Ashish Gurav,120190177,327,3,2,7,8,20,1.64E+09,Poor
+328,Himanshu Sengar,,MIT Academy of Engineering,Chemical Engineering,Himanshu Sengar,120190178,328,4,2,9,10,25,1.64E+09,Poor
+329,Asha Honshette,,MIT Academy of Engineering,Electronic and Telecommunication,Asha Honshette,120190179,329,16,4,18,17,55,1.64E+09,Good
+330,Shivraj Itewad,,MIT Academy of Engineering,Electrical Engineering,Shivraj Itewad,120190180,330,17,4,15,16,52,1.64E+09,Average
+331,Daksha Jindani,,MIT Academy of Engineering,Civil Engineering,Daksha Jindani,120190181,331,15,3,13,14,45,1.64E+09,Average
+332,Abhijeet Kadoo,,MIT Academy of Engineering,Information Technology,Abhijeet Kadoo,120190182,332,13,3,13,12,41,1.64E+09,Average
+333,Subodh Kamble,,MIT Academy of Engineering,Computer Science,Subodh Kamble,120190183,333,9,3,16,10,38,1.64E+09,Average
+334,Aniruddha Karad,,MIT Academy of Engineering,Mechnical Engineering,Aniruddha Karad,120190184,334,4,2,15,13,34,1.64E+09,Poor
+335,Prathamesh Katkhade,,MIT Academy of Engineering,Chemical Engineering,Prathamesh Katkhade,120190185,335,5,2,10,11,28,1.64E+09,Poor
+336,Chaitanya Kharwade,,MIT Academy of Engineering,Electronic and Telecommunication,Chaitanya Kharwade,120190186,336,8,2,11,14,35,1.64E+09,Average
+337,Shrinivas Khatane,,MIT Academy of Engineering,Electrical Engineering,Shrinivas Khatane,120190187,337,3,2,10,12,27,1.64E+09,Poor
+338,Kshitij Bangde,,MIT Academy of Engineering,Civil Engineering,Kshitij Bangde,120190188,338,14,4,15,13,46,1.64E+09,Average
+339,Kshitija Lade,,MIT Academy of Engineering,Information Technology,Kshitija Lade,120190189,339,7,2,10,10,29,1.64E+09,Poor
+340,Pratik Landge,,MIT Academy of Engineering,Computer Science,Pratik Landge,120190190,340,12,2,15,14,43,1.64E+09,Average
+341,Pratham Madhani,,MIT Academy of Engineering,Mechnical Engineering,Pratham Madhani,120190191,341,3,1,6,8,18,1.64E+09,Poor
+342,Dhiraj Mandal,,MIT Academy of Engineering,Chemical Engineering,Dhiraj Mandal,120190192,342,0,0,8,10,18,1.64E+09,Poor
+343,Onkar Mandavkar,,MIT Academy of Engineering,Electronic and Telecommunication,Onkar Mandavkar,120190193,343,20,5,18,16,59,1.64E+09,Good
+344,Shruti Mane,,MIT Academy of Engineering,Electrical Engineering,Shruti Mane,120190194,344,20,5,18,16,59,1.64E+09,Good
+345,Yogesh Mane,,MIT Academy of Engineering,Civil Engineering,Yogesh Mane,120190195,345,16,4,16,15,51,1.64E+09,Average
+346,Manish Manohar,,MIT Academy of Engineering,Information Technology,Manish Manohar,120190196,346,14,3,17,16,50,1.64E+09,Average
+347,Ruchi Meshram,,MIT Academy of Engineering,Computer Science,Ruchi Meshram,120190197,347,1,0,7,13,21,1.64E+09,Poor
+348,Mahesh Metange,,MIT Academy of Engineering,Mechnical Engineering,Mahesh Metange,120190198,348,1,0,5,8,14,1.64E+09,Poor
+349,Yogesh Metkari,,MIT Academy of Engineering,Chemical Engineering,Yogesh Metkari,120190199,349,13,3,15,14,45,1.64E+09,Average
+350,Shreyash Mungase,,MIT Academy of Engineering,Electronic and Telecommunication,Shreyash Mungase,120190200,350,18,3,16,17,54,1.64E+09,Average
+351,Niraj Wadhe,,MIT Academy of Engineering,Electrical Engineering,Niraj Wadhe,120190201,351,3,1,6,8,18,1.64E+09,Poor
+352,Swapnil Pachkande,,MIT Academy of Engineering,Civil Engineering,Swapnil Pachkande,120190202,352,7,2,8,12,29,1.64E+09,Poor
+353,Fiza patel,,MIT Academy of Engineering,Information Technology,Fiza patel,120190203,353,20,5,17,16,58,1.64E+09,Good
+354,Avanishkumar Pathak,,MIT Academy of Engineering,Computer Science,Avanishkumar Pathak,120190204,354,17,4,16,16,53,1.64E+09,Average
+355,Harshal Patil,,MIT Academy of Engineering,Mechnical Engineering,Harshal Patil,120190205,355,5,1,8,10,24,1.64E+09,Poor
+356,Pratyoosh Anand,,MIT Academy of Engineering,Chemical Engineering,Pratyoosh Anand,120190206,356,6,1,7,10,24,1.64E+09,Poor
+357,Lalit Rajput,,MIT Academy of Engineering,Electronic and Telecommunication,Lalit Rajput,120190207,357,10,3,12,12,37,1.64E+09,Average
+358,Pratiksha Rale,,MIT Academy of Engineering,Electrical Engineering,Pratiksha Rale,120190208,358,13,2,10,12,37,1.64E+09,Average
+359,Aniket Rudraksh,,MIT Academy of Engineering,Civil Engineering,Aniket Rudraksh,120190209,359,20,4,20,18,62,1.64E+09,Good
+360,Snehal Sajagane,,MIT Academy of Engineering,Information Technology,Snehal Sajagane,120190210,360,1,0,5,7,13,1.64E+09,Poor
+361,Shreyash Sakharwade,,MIT Academy of Engineering,Computer Science,Shreyash Sakharwade,120190211,361,19,5,17,19,60,1.64E+09,Good
+362,Atul Sangolkar,,MIT Academy of Engineering,Mechnical Engineering,Atul Sangolkar,120190212,362,5,0,8,8,21,1.64E+09,Poor
+363,Sarang Wadode,,MIT Academy of Engineering,Chemical Engineering,Sarang Wadode,120190213,363,18,5,13,16,52,1.64E+09,Average
+364,Nikhil Segaokar,,MIT Academy of Engineering,Electronic and Telecommunication,Nikhil Segaokar,120190214,364,3,2,5,9,19,1.64E+09,Poor
+365,Himanshu Shimpi,,MIT Academy of Engineering,Electrical Engineering,Himanshu Shimpi,120190215,365,17,4,16,17,54,1.64E+09,Average
+366,Ansh Shriwas,,MIT Academy of Engineering,Civil Engineering,Ansh Shriwas,120190216,366,11,4,13,13,41,1.64E+09,Average
+367,Pankaj Singh,,MIT Academy of Engineering,Information Technology,Pankaj Singh,120190217,367,8,3,8,8,27,1.64E+09,Poor
+368,Ashish Somwanshi,,MIT Academy of Engineering,Computer Science,Ashish Somwanshi,120190218,368,8,3,11,10,32,1.64E+09,Poor
+369,Harshal Tole,,MIT Academy of Engineering,Mechnical Engineering,Harshal Tole,120190219,369,19,5,20,20,64,1.64E+09,Good
+370,Vaibhav Dabgotra,,MIT Academy of Engineering,Chemical Engineering,Vaibhav Dabgotra,120190220,370,18,4,17,20,59,1.64E+09,Good
+371,Rachana Wasnik,,MIT Academy of Engineering,Electronic and Telecommunication,Rachana Wasnik,120190221,371,8,3,11,14,36,1.64E+09,Average
+372,Rohit Waykos,,MIT Academy of Engineering,Electrical Engineering,Rohit Waykos,120190222,372,5,2,6,10,23,1.64E+09,Poor
+373,Vishal Sule,,MIT Academy of Engineering,Civil Engineering,Vishal Sule,120190223,373,4,2,10,7,23,1.64E+09,Poor
+374,Pruthviraj Suryawanshi,,MIT Academy of Engineering,Information Technology,Pruthviraj Suryawanshi,120190224,374,1,1,4,4,10,1.64E+09,Poor
+375,Shubham Jahagirdar,,MIT Academy of Engineering,Computer Science,Shubham Jahagirdar,120190225,375,4,0,6,7,17,1.64E+09,Poor
+401,Abhishek Kumar,,MIT Academy of Engineering,Mechnical Engineering,Abhishek Kumar,120190226,401,4,1,6,7,18,1.64E+09,Poor
+402,Adishwar Sharma,,MIT Academy of Engineering,Chemical Engineering,Adishwar Sharma,120190227,402,4,0,4,0,8,1.64E+09,Poor
+403,Harsh Agarwal,,MIT Academy of Engineering,Electronic and Telecommunication,Harsh Agarwal,120190228,403,12,1,11,10,34,1.64E+09,Poor
+404,Kaustubh Ahirrao,,MIT Academy of Engineering,Electrical Engineering,Kaustubh Ahirrao,120190229,404,9,2,9,9,29,1.64E+09,Poor
+405,Akarsh Sharat,,MIT Academy of Engineering,Civil Engineering,Akarsh Sharat,120190230,405,6,2,8,7,23,1.64E+09,Poor
+406,Aniket yadav,,MIT Academy of Engineering,Information Technology,Aniket yadav,120190231,406,12,3,11,14,40,1.64E+09,Average
+407,Anjani nandan,,MIT Academy of Engineering,Computer Science,Anjani nandan,120190232,407,0,0,18,20,38,1.64E+09,Average
+408,Anurag Taparia,,MIT Academy of Engineering,Mechnical Engineering,Anurag Taparia,120190233,408,7,2,7,9,25,1.64E+09,Poor
+409,Aston Shaji,,MIT Academy of Engineering,Chemical Engineering,Aston Shaji,120190234,409,13,3,10,15,41,1.64E+09,Average
+410,Shardul Babhulkar,,MIT Academy of Engineering,Electronic and Telecommunication,Shardul Babhulkar,120190235,410,5,1,8,10,24,1.64E+09,Poor
+411,Kaustubh Barge,,MIT Academy of Engineering,Electrical Engineering,Kaustubh Barge,120190236,411,10,2,10,7,29,1.64E+09,Poor
+412,Aditya Batule,,MIT Academy of Engineering,Civil Engineering,Aditya Batule,120190237,412,14,2,15,16,47,1.64E+09,Average
+413,Kaushik Bhadane,,MIT Academy of Engineering,Information Technology,Kaushik Bhadane,120190238,413,16,3,16,17,52,1.64E+09,Average
+414,Akash Bhingare,,MIT Academy of Engineering,Computer Science,Akash Bhingare,120190239,414,5,4,17,15,41,1.64E+09,Average
+415,Vinayak Bhosle,,MIT Academy of Engineering,Mechnical Engineering,Vinayak Bhosle,120190240,415,10,2,13,14,39,1.64E+09,Average
+416,Shivateja Chalvadhi,,MIT Academy of Engineering,Chemical Engineering,Shivateja Chalvadhi,120190241,416,14,3,14,13,44,1.64E+09,Average
+417,Onkar Chandage,,MIT Academy of Engineering,Electronic and Telecommunication,Onkar Chandage,120190242,417,19,3,17,19,58,1.64E+09,Good
+418,Sandip Dadas,,MIT Academy of Engineering,Electrical Engineering,Sandip Dadas,120190243,418,18,4,20,20,62,1.64E+09,Good
+419,Santoshwar Deep,,MIT Academy of Engineering,Civil Engineering,Santoshwar Deep,120190244,419,16,4,17,14,51,1.64E+09,Average
+420,Nishant Dhakne,,MIT Academy of Engineering,Information Technology,Nishant Dhakne,120190245,420,20,5,17,17,59,1.64E+09,Good
+421,Chirag Dhande,,MIT Academy of Engineering,Computer Science,Chirag Dhande,120190246,421,10,3,11,14,38,1.64E+09,Average
+422,Nansaheb Dudhal,,MIT Academy of Engineering,Mechnical Engineering,Nansaheb Dudhal,120190247,422,2,0,8,5,15,1.64E+09,Poor
+423,Sakshi Dumbre,,MIT Academy of Engineering,Chemical Engineering,Sakshi Dumbre,120190248,423,11,3,14,14,42,1.64E+09,Average
+424,Shrihari Eknathe,,MIT Academy of Engineering,Electronic and Telecommunication,Shrihari Eknathe,120190249,424,5,2,7,9,23,1.64E+09,Poor
+425,Pratik gaikwad,,MIT Academy of Engineering,Electrical Engineering,Pratik gaikwad,120190250,425,5,2,9,7,23,1.64E+09,Poor
+426,Sonali Gaikwad,,MIT Academy of Engineering,Civil Engineering,Sonali Gaikwad,120190251,426,10,2,11,12,35,1.64E+09,Average
+427,Pratik Ghadge,,MIT Academy of Engineering,Information Technology,Pratik Ghadge,120190252,427,19,4,17,20,60,1.64E+09,Good
+428,Amey Ghotankar,,MIT Academy of Engineering,Computer Science,Amey Ghotankar,120190253,428,20,5,20,18,63,1.64E+09,Good
+429,Shreyas Golegaonkar,,MIT Academy of Engineering,Mechnical Engineering,Shreyas Golegaonkar,120190254,429,0,0,8,16,24,1.64E+09,Poor
+430,Swapnil Gore,,MIT Academy of Engineering,Chemical Engineering,Swapnil Gore,120190255,430,7,2,11,13,33,1.64E+09,Poor
+431,Piyush Gaikwad,,MIT Academy of Engineering,Electronic and Telecommunication,Piyush Gaikwad,120190256,431,18,4,15,17,54,1.64E+09,Average
+432,Anagha Haral,,MIT Academy of Engineering,Electrical Engineering,Anagha Haral,120190257,432,11,3,15,11,40,1.64E+09,Average
+433,Dhawal Hemane,,MIT Academy of Engineering,Civil Engineering,Dhawal Hemane,120190258,433,14,3,11,17,45,1.64E+09,Average
+434,Vivek Ingole,,MIT Academy of Engineering,Information Technology,Vivek Ingole,120190259,434,7,2,8,10,27,1.64E+09,Poor
+435,Priti Jadhav,,MIT Academy of Engineering,Computer Science,Priti Jadhav,120190260,435,20,5,20,17,62,1.64E+09,Good
+436,Atharv kad,,MIT Academy of Engineering,Mechnical Engineering,Atharv kad,120190261,436,18,5,18,14,55,1.64E+09,Good
+437,Pratik Kale,,MIT Academy of Engineering,Chemical Engineering,Pratik Kale,120190262,437,19,5,20,20,64,1.64E+09,Good
+438,Pratik Kale,,MIT Academy of Engineering,Electronic and Telecommunication,Pratik Kale,120190263,438,15,4,17,20,56,1.64E+09,Good
+439,Kapil Khairkar,,MIT Academy of Engineering,Electrical Engineering,Kapil Khairkar,120190264,439,15,3,16,18,52,1.64E+09,Average
+440,Priyanka karad,,MIT Academy of Engineering,Civil Engineering,Priyanka karad,120190265,440,18,4,19,19,60,1.64E+09,Good
+441,Karanjot Singh,,MIT Academy of Engineering,Information Technology,Karanjot Singh,120190266,441,13,4,12,15,44,1.64E+09,Average
+442,Niranjan Khandagale,,MIT Academy of Engineering,Computer Science,Niranjan Khandagale,120190267,442,11,3,13,16,43,1.64E+09,Average
+443,Sheha Kharate,,MIT Academy of Engineering,Mechnical Engineering,Sheha Kharate,120190268,443,3,1,5,6,15,1.64E+09,Poor
+444,Atul Kshirsagar,,MIT Academy of Engineering,Chemical Engineering,Atul Kshirsagar,120190269,444,6,1,7,10,24,1.64E+09,Poor
+445,Sunil Lad,,MIT Academy of Engineering,Electronic and Telecommunication,Sunil Lad,120190270,445,8,3,7,9,27,1.64E+09,Poor
+446,Dnyanda Mahajan,,MIT Academy of Engineering,Electrical Engineering,Dnyanda Mahajan,120190271,446,15,4,17,18,54,1.64E+09,Average
+447,Suyog Mahangade,,MIT Academy of Engineering,Civil Engineering,Suyog Mahangade,120190272,447,2,0,10,8,20,1.64E+09,Poor
+448,Vishal Malwade,,MIT Academy of Engineering,Information Technology,Vishal Malwade,120190273,448,6,2,8,6,22,1.64E+09,Poor
+449,Sahil Mangar,,MIT Academy of Engineering,Computer Science,Sahil Mangar,120190274,449,4,1,8,6,19,1.64E+09,Poor
+450,Rushikesh Mungase,,MIT Academy of Engineering,Mechnical Engineering,Rushikesh Mungase,120190275,450,16,5,15,17,53,1.64E+09,Average
+451,Tanuja Neherkar,,MIT Academy of Engineering,Chemical Engineering,Tanuja Neherkar,120190276,451,16,4,17,16,53,1.64E+09,Average
+452,Nayan nirvikar,,MIT Academy of Engineering,Electronic and Telecommunication,Nayan nirvikar,120190277,452,12,3,12,11,38,1.64E+09,Average
+453,Suyash Ombale,,MIT Academy of Engineering,Electrical Engineering,Suyash Ombale,120190278,453,11,3,13,10,37,1.64E+09,Average
+454,Amey Patil,,MIT Academy of Engineering,Civil Engineering,Amey Patil,120190279,454,14,3,14,14,45,1.64E+09,Average
+455,Kshitij Patil,,MIT Academy of Engineering,Information Technology,Kshitij Patil,120190280,455,20,4,15,15,54,1.64E+09,Average
+456,Vishal Patil,,MIT Academy of Engineering,Computer Science,Vishal Patil,120190281,456,0,5,20,20,45,1.64E+09,Average
+457,Suyash parve,,MIT Academy of Engineering,Mechnical Engineering,Suyash parve,120190282,457,15,4,16,12,47,1.64E+09,Average
+458,Hitesh Pardi,,MIT Academy of Engineering,Chemical Engineering,Hitesh Pardi,120190283,458,11,3,3,10,27,1.64E+09,Poor
+459,Akash Pawar,,MIT Academy of Engineering,Electronic and Telecommunication,Akash Pawar,120190284,459,9,2,11,10,32,1.64E+09,Poor
+460,Asmita Pawar,,MIT Academy of Engineering,Electrical Engineering,Asmita Pawar,120190285,460,3,2,6,11,22,1.64E+09,Poor
+461,Nehul Pawar,,MIT Academy of Engineering,Civil Engineering,Nehul Pawar,120190286,461,4,1,7,8,20,1.64E+09,Poor
+462,Apurva Pete,,MIT Academy of Engineering,Information Technology,Apurva Pete,120190287,462,4,0,13,11,28,1.64E+09,Poor
+463,Pratham Bharadwaj,,MIT Academy of Engineering,Computer Science,Pratham Bharadwaj,120190288,463,7,2,8,5,22,1.64E+09,Poor
+464,Purva Potdukhe,,MIT Academy of Engineering,Mechnical Engineering,Purva Potdukhe,120190289,464,18,2,19,20,59,1.64E+09,Good
+465,Priyanshi Rai,,MIT Academy of Engineering,Chemical Engineering,Priyanshi Rai,120190290,465,17,3,15,15,50,1.64E+09,Average
+466,Shivashish Roy,,MIT Academy of Engineering,Electronic and Telecommunication,Shivashish Roy,120190291,466,4,2,8,10,24,1.64E+09,Poor
+467,Tanvi Shah,,MIT Academy of Engineering,Electrical Engineering,Tanvi Shah,120190292,467,0,4,15,16,35,1.64E+09,Average
+468,Shivya Shrivastav,,MIT Academy of Engineering,Civil Engineering,Shivya Shrivastav,120190293,468,9,3,9,9,30,1.64E+09,Poor
+469,Shreyash Bhagat,,MIT Academy of Engineering,Information Technology,Shreyash Bhagat,120190294,469,6,2,8,7,23,1.64E+09,Poor
+470,Mohit Solanki,,MIT Academy of Engineering,Computer Science,Mohit Solanki,120190295,470,16,4,15,17,52,1.64E+09,Average
+471,Om Tambe,,MIT Academy of Engineering,Mechnical Engineering,Om Tambe,120190296,471,2,4,6,10,22,1.64E+09,Poor
+472,Prajyot Undare,,MIT Academy of Engineering,Chemical Engineering,Prajyot Undare,120190297,472,15,5,15,15,50,1.64E+09,Average
+473,Atharva Wadpelli,,MIT Academy of Engineering,Electronic and Telecommunication,Atharva Wadpelli,120190298,473,16,4,15,17,52,1.64E+09,Average
+474,Adarsh Zamwar,,MIT Academy of Engineering,Electrical Engineering,Adarsh Zamwar,120190299,474,6,2,8,9,25,1.64E+09,Poor
+475,Tejas Zope,,MIT Academy of Engineering,Civil Engineering,Tejas Zope,120190300,475,7,3,11,13,34,1.64E+09,Poor
+501,Aditya Birangal,,MIT Academy of Engineering,Information Technology,Aditya Birangal,120190301,501,20,5,16,14,55,1.64E+09,Good
+502,Shriharsh Agarwal,,MIT Academy of Engineering,Computer Science,Shriharsh Agarwal,120190302,502,4,0,8,11,23,1.64E+09,Poor
+503,Yash Agarwal,,MIT Academy of Engineering,Mechnical Engineering,Yash Agarwal,120190303,503,10,3,13,15,41,1.64E+09,Average
+504,Nileash Aurade,,MIT Academy of Engineering,Chemical Engineering,Nileash Aurade,120190304,504,12,3,14,12,41,1.64E+09,Average
+505,Chetan Bhairaje,,MIT Academy of Engineering,Electronic and Telecommunication,Chetan Bhairaje,120190305,505,20,4,18,16,58,1.64E+09,Good
+506,Anuj Barave,,MIT Academy of Engineering,Electrical Engineering,Anuj Barave,120190306,506,3,2,7,10,22,1.64E+09,Poor
+507,Rushikesh Bawkar,,MIT Academy of Engineering,Civil Engineering,Rushikesh Bawkar,120190307,507,18,5,19,20,62,1.64E+09,Good
+508,Muskan Bharadia,,MIT Academy of Engineering,Information Technology,Muskan Bharadia,120190308,508,8,2,10,10,30,1.64E+09,Poor
+509,Om bharare,,MIT Academy of Engineering,Computer Science,Om bharare,120190309,509,9,2,9,11,31,1.64E+09,Poor
+510,Anuj Bhaskar,,MIT Academy of Engineering,Mechnical Engineering,Anuj Bhaskar,120190310,510,0,5,20,20,45,1.64E+09,Average
+511,Sakshee Chavan,,MIT Academy of Engineering,Chemical Engineering,Sakshee Chavan,120190311,511,12,3,14,16,45,1.64E+09,Average
+512,Tushar Dhamdhere,,MIT Academy of Engineering,Electronic and Telecommunication,Tushar Dhamdhere,120190312,512,11,3,13,11,38,1.64E+09,Average
+513,Shwetali Desai,,MIT Academy of Engineering,Electrical Engineering,Shwetali Desai,120190313,513,8,3,8,10,29,1.64E+09,Poor
+514,Pruthviraje Deshmukh,,MIT Academy of Engineering,Civil Engineering,Pruthviraje Deshmukh,120190314,514,15,4,16,16,51,1.64E+09,Average
+515,Ashutosh Gandhewar,,MIT Academy of Engineering,Information Technology,Ashutosh Gandhewar,120190315,515,20,4,16,17,57,1.64E+09,Good
+516,Dhiraj Gangurde,,MIT Academy of Engineering,Computer Science,Dhiraj Gangurde,120190316,516,7,1,10,12,30,1.64E+09,Poor
+517,Pallavi Gaikwad,,MIT Academy of Engineering,Mechnical Engineering,Pallavi Gaikwad,120190317,517,8,2,10,10,30,1.64E+09,Poor
+518,Dilbagh Singh,,MIT Academy of Engineering,Chemical Engineering,Dilbagh Singh,120190318,518,17,4,14,19,54,1.64E+09,Average
+519,Harshada Gawade,,MIT Academy of Engineering,Electronic and Telecommunication,Harshada Gawade,120190319,519,6,0,8,11,25,1.64E+09,Poor
+520,Pradyumna Gayake,,MIT Academy of Engineering,Electrical Engineering,Pradyumna Gayake,120190320,520,19,5,17,16,57,1.64E+09,Good
+521,Vaibhav Gengane,,MIT Academy of Engineering,Civil Engineering,Vaibhav Gengane,120190321,521,19,5,20,18,62,1.64E+09,Good
+522,Sankalp Ghodke,,MIT Academy of Engineering,Information Technology,Sankalp Ghodke,120190322,522,15,4,14,17,50,1.64E+09,Average
+523,Surabhi Ghogare,,MIT Academy of Engineering,Computer Science,Surabhi Ghogare,120190323,523,14,5,17,16,52,1.64E+09,Average
+524,Parth Gorwadkar,,MIT Academy of Engineering,Mechnical Engineering,Parth Gorwadkar,120190324,524,13,4,12,11,40,1.64E+09,Average
+525,Pratik Hardas,,MIT Academy of Engineering,Chemical Engineering,Pratik Hardas,120190325,525,6,0,10,8,24,1.64E+09,Poor
+526,Rushikesh Hasabe,,MIT Academy of Engineering,Electronic and Telecommunication,Rushikesh Hasabe,120190326,526,5,0,10,7,22,1.64E+09,Poor
+527,Omkar Jagdale,,MIT Academy of Engineering,Electrical Engineering,Omkar Jagdale,120190327,527,8,2,8,8,26,1.64E+09,Poor
+528,Jattien Sharma,,MIT Academy of Engineering,Civil Engineering,Jattien Sharma,120190328,528,1,0,5,5,11,1.64E+09,Poor
+529,Sanskruti Joshi,,MIT Academy of Engineering,Information Technology,Sanskruti Joshi,120190329,529,3,0,7,8,18,1.64E+09,Poor
+530,Sanket Kale,,MIT Academy of Engineering,Computer Science,Sanket Kale,120190330,530,8,3,14,13,38,1.64E+09,Average
+531,Mrinal kasture,,MIT Academy of Engineering,Mechnical Engineering,Mrinal kasture,120190331,531,1,1,8,8,18,1.64E+09,Poor
+532,Saurabh Keskar,,MIT Academy of Engineering,Chemical Engineering,Saurabh Keskar,120190332,532,7,3,10,8,28,1.64E+09,Poor
+533,Sujata Khairkar,,MIT Academy of Engineering,Electronic and Telecommunication,Sujata Khairkar,120190333,533,12,3,13,12,40,1.64E+09,Average
+534,Vaibhav Khandare,,MIT Academy of Engineering,Electrical Engineering,Vaibhav Khandare,120190334,534,0,4,7,7,18,1.64E+09,Poor
+535,Aventika Khemani,,MIT Academy of Engineering,Civil Engineering,Aventika Khemani,120190335,535,10,3,14,15,42,1.64E+09,Average
+536,Nikhil Khunde,,MIT Academy of Engineering,Information Technology,Nikhil Khunde,120190336,536,2,2,6,8,18,1.64E+09,Poor
+537,Samir Kolawale,,MIT Academy of Engineering,Computer Science,Samir Kolawale,120190337,537,1,1,1,5,8,1.64E+09,Poor
+538,Krishnakant Phate,,MIT Academy of Engineering,Mechnical Engineering,Krishnakant Phate,120190338,538,17,5,16,17,55,1.64E+09,Good
+539,Prathamesh Kulkarni,,MIT Academy of Engineering,Chemical Engineering,Prathamesh Kulkarni,120190339,539,10,4,15,8,37,1.64E+09,Average
+540,Ramhari Madhukar,,MIT Academy of Engineering,Electronic and Telecommunication,Ramhari Madhukar,120190340,540,7,3,8,8,26,1.64E+09,Poor
+541,Divyanshu Mamidwar,,MIT Academy of Engineering,Electrical Engineering,Divyanshu Mamidwar,120190341,541,16,3,16,18,53,1.64E+09,Average
+542,Prabhu Mane,,MIT Academy of Engineering,Civil Engineering,Prabhu Mane,120190342,542,14,4,15,15,48,1.64E+09,Average
+543,Shivam Marathe,,MIT Academy of Engineering,Information Technology,Shivam Marathe,120190343,543,12,4,14,13,43,1.64E+09,Average
+544,Abhishek more,,MIT Academy of Engineering,Computer Science,Abhishek more,120190344,544,3,1,8,7,19,1.64E+09,Poor
+545,Aditya Mukund,,MIT Academy of Engineering,Mechnical Engineering,Aditya Mukund,120190345,545,10,3,13,13,39,1.64E+09,Average
+546,Nihal Mulla,,MIT Academy of Engineering,Chemical Engineering,Nihal Mulla,120190346,546,0,3,8,8,19,1.64E+09,Poor
+547,Shrikant Mundhe,,MIT Academy of Engineering,Electronic and Telecommunication,Shrikant Mundhe,120190347,547,13,3,15,14,45,1.64E+09,Average
+548,Vaidehi Nagolkar,,MIT Academy of Engineering,Electrical Engineering,Vaidehi Nagolkar,120190348,548,11,3,11,11,36,1.64E+09,Average
+549,Anup Narkhede,,MIT Academy of Engineering,Civil Engineering,Anup Narkhede,120190349,549,14,4,12,15,45,1.64E+09,Average
+550,Shreyash Pantawane,,MIT Academy of Engineering,Information Technology,Shreyash Pantawane,120190350,550,14,3,16,12,45,1.64E+09,Average
+551,Arjun Pardeshi,,MIT Academy of Engineering,Computer Science,Arjun Pardeshi,120190351,551,15,4,16,13,48,1.64E+09,Average
+552,Pratik Parekh,,MIT Academy of Engineering,Mechnical Engineering,Pratik Parekh,120190352,552,4,2,8,8,22,1.64E+09,Poor
+553,Kunal patil,,MIT Academy of Engineering,Chemical Engineering,Kunal patil,120190353,553,10,3,12,14,39,1.64E+09,Average
+554,Sambhuraj Patil,,MIT Academy of Engineering,Electronic and Telecommunication,Sambhuraj Patil,120190354,554,6,2,9,10,27,1.64E+09,Poor
+555,Ajay Pawar,,MIT Academy of Engineering,Electrical Engineering,Ajay Pawar,120190355,555,12,3,15,14,44,1.64E+09,Average
+556,Indrajit Pawar,,MIT Academy of Engineering,Civil Engineering,Indrajit Pawar,120190356,556,17,4,18,20,59,1.64E+09,Good
+557,Sujit Pawar,,MIT Academy of Engineering,Information Technology,Sujit Pawar,120190357,557,6,1,7,7,21,1.64E+09,Poor
+558,Pranav Dherange,,MIT Academy of Engineering,Computer Science,Pranav Dherange,120190358,558,8,2,10,9,29,1.64E+09,Poor
+559,Abhishek Pund,,MIT Academy of Engineering,Mechnical Engineering,Abhishek Pund,120190359,559,0,2,8,11,21,1.64E+09,Poor
+560,Prachiti Raut,,MIT Academy of Engineering,Chemical Engineering,Prachiti Raut,120190360,560,9,3,13,11,36,1.64E+09,Average
+561,Amol Sahane,,MIT Academy of Engineering,Electronic and Telecommunication,Amol Sahane,120190361,561,3,2,7,11,23,1.64E+09,Poor
+562,Sakshi Londhe,,MIT Academy of Engineering,Electrical Engineering,Sakshi Londhe,120190362,562,18,4,20,13,55,1.64E+09,Good
+563,Pranav Salunkhe,,MIT Academy of Engineering,Civil Engineering,Pranav Salunkhe,120190363,563,15,4,16,13,48,1.64E+09,Average
+564,Saif Sayyad,,MIT Academy of Engineering,Information Technology,Saif Sayyad,120190364,564,12,4,14,11,41,1.64E+09,Average
+565,MiteshShah,,MIT Academy of Engineering,Computer Science,MiteshShah,120190365,565,5,2,10,15,32,1.64E+09,Poor
+566,Somu Sharma,,MIT Academy of Engineering,Mechnical Engineering,Somu Sharma,120190366,566,16,4,15,15,50,1.64E+09,Average
+567,Rishav Sinha,,MIT Academy of Engineering,Chemical Engineering,Rishav Sinha,120190367,567,13,3,16,15,47,1.64E+09,Average
+568,Tadvi Mahemood,,MIT Academy of Engineering,Electronic and Telecommunication,Tadvi Mahemood,120190368,568,4,1,8,10,23,1.64E+09,Poor
+569,Aarti Tile,,MIT Academy of Engineering,Electrical Engineering,Aarti Tile,120190369,569,10,2,13,14,39,1.64E+09,Average
+570,Vaibhav Devshatwar,,MIT Academy of Engineering,Civil Engineering,Vaibhav Devshatwar,120190370,570,20,5,17,16,58,1.64E+09,Good
+571,Amey Vaikar,,MIT Academy of Engineering,Information Technology,Amey Vaikar,120190371,571,5,0,9,9,23,1.64E+09,Poor
+572,Vivek Shambharkar,,MIT Academy of Engineering,Computer Science,Vivek Shambharkar,120190372,572,5,2,7,10,24,1.64E+09,Poor
+573,Yadnesh Vidyasagar,,MIT Academy of Engineering,Mechnical Engineering,Yadnesh Vidyasagar,120190373,573,0,5,16,20,41,1.64E+09,Average
+574,Samyak Zhodape,,MIT Academy of Engineering,Chemical Engineering,Samyak Zhodape,120190374,574,19,5,19,17,60,1.64E+09,Good
+575,Adil Shaikh,,MIT Academy of Engineering,Electronic and Telecommunication,Adil Shaikh,120190375,575,19,5,17,20,61,1.64E+09,Good
+601,Aditya Kumar,,MIT Academy of Engineering,Electrical Engineering,Aditya Kumar,120190376,601,1,1,6,5,13,1.64E+09,Poor
+602,Sanchit agarkar,,MIT Academy of Engineering,Civil Engineering,Sanchit agarkar,120190377,602,6,2,8,10,26,1.64E+09,Poor
+603,Ankur Powar,,MIT Academy of Engineering,Information Technology,Ankur Powar,120190378,603,12,3,14,12,41,1.64E+09,Average
+604,Anushka Yadav,,MIT Academy of Engineering,Computer Science,Anushka Yadav,120190379,604,5,1,7,10,23,1.64E+09,Poor
+605,Atharva Konde,,MIT Academy of Engineering,Mechnical Engineering,Atharva Konde,120190380,605,11,3,11,10,35,1.64E+09,Average
+606,Atharva Batwe,,MIT Academy of Engineering,Chemical Engineering,Atharva Batwe,120190381,606,7,2,8,10,27,1.64E+09,Poor
+607,Vaishavi Bhandale,,MIT Academy of Engineering,Electronic and Telecommunication,Vaishavi Bhandale,120190382,607,11,3,14,13,41,1.64E+09,Average
+608,Tejas Bobe,,MIT Academy of Engineering,Electrical Engineering,Tejas Bobe,120190383,608,9,3,10,7,29,1.64E+09,Poor
+609,Gokul Chandere,,MIT Academy of Engineering,Civil Engineering,Gokul Chandere,120190384,609,15,4,15,13,47,1.64E+09,Average
+610,Mangesh Chavan,,MIT Academy of Engineering,Information Technology,Mangesh Chavan,120190385,610,0,5,17,19,41,1.64E+09,Average
+611,Prathamesh Chavan,,MIT Academy of Engineering,Computer Science,Prathamesh Chavan,120190386,611,7,2,8,10,27,1.64E+09,Poor
+612,Janardhan Chikale,,MIT Academy of Engineering,Mechnical Engineering,Janardhan Chikale,120190387,612,3,0,5,8,16,1.64E+09,Poor
+613,Avinash Chaudhary,,MIT Academy of Engineering,Chemical Engineering,Avinash Chaudhary,120190388,613,14,4,16,14,48,1.64E+09,Average
+614,Yeeshant Dahikar,,MIT Academy of Engineering,Electronic and Telecommunication,Yeeshant Dahikar,120190389,614,10,2,11,8,31,1.64E+09,Poor
+615,Piyush Deore,,MIT Academy of Engineering,Electrical Engineering,Piyush Deore,120190390,615,19,4,20,20,63,1.64E+09,Good
+616,Aayush Deshpande,,MIT Academy of Engineering,Civil Engineering,Aayush Deshpande,120190391,616,5,2,10,14,31,1.64E+09,Poor
+617,Pallavi Deshpande,,MIT Academy of Engineering,Information Technology,Pallavi Deshpande,120190392,617,5,1,0,0,6,1.64E+09,Poor
+618,Vrushank Dhake,,MIT Academy of Engineering,Computer Science,Vrushank Dhake,120190393,618,14,3,15,15,47,1.64E+09,Average
+619,Krishna Dhote,,MIT Academy of Engineering,Mechnical Engineering,Krishna Dhote,120190394,619,15,3,17,16,51,1.64E+09,Average
+620,Vivek Endole,,MIT Academy of Engineering,Chemical Engineering,Vivek Endole,120190395,620,3,1,10,6,20,1.64E+09,Poor
+621,Tushar Gavkhare,,MIT Academy of Engineering,Electronic and Telecommunication,Tushar Gavkhare,120190396,621,14,3,15,14,46,1.64E+09,Average
+622,Mayur Ghodekar,,MIT Academy of Engineering,Electrical Engineering,Mayur Ghodekar,120190397,622,12,3,13,14,42,1.64E+09,Average
+623,Niranjan Girhe,,MIT Academy of Engineering,Civil Engineering,Niranjan Girhe,120190398,623,12,3,14,12,41,1.64E+09,Average
+624,Hrushikesh Chapke,,MIT Academy of Engineering,Information Technology,Hrushikesh Chapke,120190399,624,12,3,14,13,42,1.64E+09,Average
+625,Prasad Hule,,MIT Academy of Engineering,Computer Science,Prasad Hule,120190400,625,18,5,17,18,58,1.64E+09,Good
+626,Durgesh Jadhav,,MIT Academy of Engineering,Mechnical Engineering,Durgesh Jadhav,120190401,626,6,2,7,10,25,1.64E+09,Poor
+627,manali Jadhav,,MIT Academy of Engineering,Chemical Engineering,manali Jadhav,120190402,627,8,2,10,15,35,1.64E+09,Average
+628,Hrikesh Jathar,,MIT Academy of Engineering,Electronic and Telecommunication,Hrikesh Jathar,120190403,628,20,5,17,11,53,1.64E+09,Average
+629,Nishant Kadam,,MIT Academy of Engineering,Electrical Engineering,Nishant Kadam,120190404,629,17,5,18,15,55,1.64E+09,Good
+630,Vedant Kanate,,MIT Academy of Engineering,Civil Engineering,Vedant Kanate,120190405,630,14,4,15,12,45,1.64E+09,Average
+631,Siddharth Kanikdale,,MIT Academy of Engineering,Information Technology,Siddharth Kanikdale,120190406,631,15,4,14,16,49,1.64E+09,Average
+632,Tejas Khandait,,MIT Academy of Engineering,Computer Science,Tejas Khandait,120190407,632,0,2,8,10,20,1.64E+09,Poor
+633,Tushar Khapne,,MIT Academy of Engineering,Mechnical Engineering,Tushar Khapne,120190408,633,7,2,10,8,27,1.64E+09,Poor
+634,Samadhan Kolekar,,MIT Academy of Engineering,Chemical Engineering,Samadhan Kolekar,120190409,634,4,0,7,7,18,1.64E+09,Poor
+635,Sakshe Kolhe,,MIT Academy of Engineering,Electronic and Telecommunication,Sakshe Kolhe,120190410,635,15,3,17,11,46,1.64E+09,Average
+636,Nisarg Kutwal,,MIT Academy of Engineering,Electrical Engineering,Nisarg Kutwal,120190411,636,12,3,14,16,45,1.64E+09,Average
+637,Madhu Singh,,MIT Academy of Engineering,Civil Engineering,Madhu Singh,120190412,637,10,2,6,7,25,1.64E+09,Poor
+638,Amit Mane,,MIT Academy of Engineering,Information Technology,Amit Mane,120190413,638,18,4,15,16,53,1.64E+09,Average
+639,Mayank Raj Saha,,MIT Academy of Engineering,Computer Science,Mayank Raj Saha,120190414,639,3,1,9,7,20,1.64E+09,Poor
+640,Mihir Korde,,MIT Academy of Engineering,Mechnical Engineering,Mihir Korde,120190415,640,10,3,14,11,38,1.64E+09,Average
+641,Krishnakant Nageshwar,,MIT Academy of Engineering,Chemical Engineering,Krishnakant Nageshwar,120190416,641,19,4,16,15,54,1.64E+09,Average
+642,Siddhi Naik,,MIT Academy of Engineering,Electronic and Telecommunication,Siddhi Naik,120190417,642,4,0,7,10,21,1.64E+09,Poor
+643,Saumitra Nashikkar,,MIT Academy of Engineering,Electrical Engineering,Saumitra Nashikkar,120190418,643,17,3,15,15,50,1.64E+09,Average
+644,Rohan nikam,,MIT Academy of Engineering,Civil Engineering,Rohan nikam,120190419,644,16,4,14,16,50,1.64E+09,Average
+645,Omkar Pawar,,MIT Academy of Engineering,Information Technology,Omkar Pawar,120190420,645,7,2,10,12,31,1.64E+09,Poor
+646,Sanket pande,,MIT Academy of Engineering,Computer Science,Sanket pande,120190421,646,3,1,7,14,25,1.64E+09,Poor
+647,Parth Shrivastava,,MIT Academy of Engineering,Mechnical Engineering,Parth Shrivastava,120190422,647,12,3,11,15,41,1.64E+09,Average
+648,Aman Patil,,MIT Academy of Engineering,Chemical Engineering,Aman Patil,120190423,648,3,0,9,9,21,1.64E+09,Poor
+649,Vaibhav Patil,,MIT Academy of Engineering,Electronic and Telecommunication,Vaibhav Patil,120190424,649,14,3,16,13,46,1.64E+09,Average
+650,Anushka Pawar,,MIT Academy of Engineering,Electrical Engineering,Anushka Pawar,120190425,650,17,4,14,16,51,1.64E+09,Average
+651,Saurabh Powar,,MIT Academy of Engineering,Civil Engineering,Saurabh Powar,120190426,651,5,0,7,8,20,1.64E+09,Poor
+652,Pratik Patil,,MIT Academy of Engineering,Information Technology,Pratik Patil,120190427,652,16,3,14,12,45,1.64E+09,Average
+653,Sejal Ramteke,,MIT Academy of Engineering,Computer Science,Sejal Ramteke,120190428,653,10,2,9,9,30,1.64E+09,Poor
+654,Kaustubh Rathod,,MIT Academy of Engineering,Mechnical Engineering,Kaustubh Rathod,120190429,654,4,0,6,6,16,1.64E+09,Poor
+655,Rishrab raj,,MIT Academy of Engineering,Chemical Engineering,Rishrab raj,120190430,655,9,0,11,10,30,1.64E+09,Poor
+656,Ritik Bhasarkar,,MIT Academy of Engineering,Electronic and Telecommunication,Ritik Bhasarkar,120190431,656,17,4,15,12,48,1.64E+09,Average
+657,Chetan Samrit,,MIT Academy of Engineering,Electrical Engineering,Chetan Samrit,120190432,657,13,3,14,14,44,1.64E+09,Average
+658,Saubhagya Monal,,MIT Academy of Engineering,Civil Engineering,Saubhagya Monal,120190433,658,13,3,11,12,39,1.64E+09,Average
+659,Pratik Saurkar,,MIT Academy of Engineering,Information Technology,Pratik Saurkar,120190434,659,13,3,14,14,44,1.64E+09,Average
+660,Sejal Abrol,,MIT Academy of Engineering,Computer Science,Sejal Abrol,120190435,660,2,2,7,5,16,1.64E+09,Poor
+661,Vaibhav Shelake,,MIT Academy of Engineering,Mechnical Engineering,Vaibhav Shelake,120190436,661,20,4,16,13,53,1.64E+09,Average
+662,Chatak Shinde,,MIT Academy of Engineering,Chemical Engineering,Chatak Shinde,120190437,662,6,1,10,11,28,1.64E+09,Poor
+663,Aaditya Shirsat,,MIT Academy of Engineering,Electronic and Telecommunication,Aaditya Shirsat,120190438,663,13,3,13,14,43,1.64E+09,Average
+664,Shruti Sharma,,MIT Academy of Engineering,Electrical Engineering,Shruti Sharma,120190439,664,20,4,14,12,50,1.64E+09,Average
+665,Nikhil Sonawane,,MIT Academy of Engineering,Civil Engineering,Nikhil Sonawane,120190440,665,10,2,13,11,36,1.64E+09,Average
+666,Sagar Tangade,,MIT Academy of Engineering,Information Technology,Sagar Tangade,120190441,666,6,1,8,10,25,1.64E+09,Poor
+667,Tanmay joshi,,MIT Academy of Engineering,Computer Science,Tanmay joshi,120190442,667,18,4,16,15,53,1.64E+09,Average
+668,Atharv Udavant,,MIT Academy of Engineering,Mechnical Engineering,Atharv Udavant,120190443,668,15,3,13,14,45,1.64E+09,Average
+669,Siddhesh Ugale,,MIT Academy of Engineering,Chemical Engineering,Siddhesh Ugale,120190444,669,12,2,14,12,40,1.64E+09,Average
+670,Pranav Unkule,,MIT Academy of Engineering,Electronic and Telecommunication,Pranav Unkule,120190445,670,4,0,15,13,32,1.64E+09,Poor
+671,Vaishnavi Gaikwad,,MIT Academy of Engineering,Electrical Engineering,Vaishnavi Gaikwad,120190446,671,10,5,11,13,39,1.64E+09,Average
+672,Anbhishek Wagh,,MIT Academy of Engineering,Civil Engineering,Anbhishek Wagh,120190447,672,3,2,7,7,19,1.64E+09,Poor
+673,Prajwal Wankhede,,MIT Academy of Engineering,Information Technology,Prajwal Wankhede,120190448,673,12,3,11,14,40,1.64E+09,Average
+674,Prathamesh Waykar,,MIT Academy of Engineering,Computer Science,Prathamesh Waykar,120190449,674,20,3,15,17,55,1.64E+09,Good
+675,Aayushi Deshpande,,MIT Academy of Engineering,Mechnical Engineering,Aayushi Deshpande,120190450,675,18,4,15,13,50,1.64E+09,Average
+701,Aayush pandey,,MIT Academy of Engineering,Chemical Engineering,Aayush pandey,120190451,701,0,3,7,10,20,1.64E+09,Poor
+702,Abhishek Mishra,,MIT Academy of Engineering,Electronic and Telecommunication,Abhishek Mishra,120190452,702,6,2,12,12,32,1.64E+09,Poor
+703,Aniket,,MIT Academy of Engineering,Electrical Engineering,Aniket,120190453,703,6,1,10,9,26,1.64E+09,Poor
+704,Aniket Sharma,,MIT Academy of Engineering,Civil Engineering,Aniket Sharma,120190454,704,15,4,7,7,33,1.64E+09,Poor
+705,Anirudh Kabya,,MIT Academy of Engineering,Information Technology,Anirudh Kabya,120190455,705,6,2,11,8,27,1.64E+09,Poor
+706,Arya Kashyap,,MIT Academy of Engineering,Computer Science,Arya Kashyap,120190456,706,7,2,15,14,38,1.64E+09,Average
+707,Ashwini Raddekar,,MIT Academy of Engineering,Mechnical Engineering,Ashwini Raddekar,120190457,707,10,2,12,15,39,1.64E+09,Average
+708,Aditya Bhatule,,MIT Academy of Engineering,Chemical Engineering,Aditya Bhatule,120190458,708,4,4,16,18,42,1.64E+09,Average
+709,Vaishnavi Bhagwat,,MIT Academy of Engineering,Electronic and Telecommunication,Vaishnavi Bhagwat,120190459,709,18,5,15,17,55,1.64E+09,Good
+710,Adinath Bhise,,MIT Academy of Engineering,Electrical Engineering,Adinath Bhise,120190460,710,9,3,8,8,28,1.64E+09,Poor
+711,Vinayak Chavan,,MIT Academy of Engineering,Civil Engineering,Vinayak Chavan,120190461,711,11,3,10,9,33,1.64E+09,Poor
+712,Kshitij Dharwekar,,MIT Academy of Engineering,Information Technology,Kshitij Dharwekar,120190462,712,15,3,14,17,49,1.64E+09,Average
+713,Vedant Dawange,,MIT Academy of Engineering,Computer Science,Vedant Dawange,120190463,713,20,4,15,16,55,1.64E+09,Good
+714,Harishchandra Deore,,MIT Academy of Engineering,Mechnical Engineering,Harishchandra Deore,120190464,714,1,0,6,14,21,1.64E+09,Poor
+715,Vaishnavi Deshmukh,,MIT Academy of Engineering,Chemical Engineering,Vaishnavi Deshmukh,120190465,715,9,3,9,10,31,1.64E+09,Poor
+716,Vikas Deshmukh,,MIT Academy of Engineering,Electronic and Telecommunication,Vikas Deshmukh,120190466,716,12,3,14,12,41,1.64E+09,Average
+717,Aditi Deshpande,,MIT Academy of Engineering,Electrical Engineering,Aditi Deshpande,120190467,717,5,0,8,9,22,1.64E+09,Poor
+718,Dewansh Singh,,MIT Academy of Engineering,Civil Engineering,Dewansh Singh,120190468,718,6,0,11,10,27,1.64E+09,Poor
+719,Vaishnavi Divnale,,MIT Academy of Engineering,Information Technology,Vaishnavi Divnale,120190469,719,20,2,15,16,53,1.64E+09,Average
+720,Chaitany Dumbre,,MIT Academy of Engineering,Computer Science,Chaitany Dumbre,120190470,720,0,5,18,16,39,1.64E+09,Average
+721,Yash Fuljale,,MIT Academy of Engineering,Mechnical Engineering,Yash Fuljale,120190471,721,8,2,14,16,40,1.64E+09,Average
+722,Triveni Gaidhane,,MIT Academy of Engineering,Chemical Engineering,Triveni Gaidhane,120190472,722,14,3,15,15,47,1.64E+09,Average
+723,Shreya Gaikwad,,MIT Academy of Engineering,Electronic and Telecommunication,Shreya Gaikwad,120190473,723,16,3,14,14,47,1.64E+09,Average
+724,Govind Gawande,,MIT Academy of Engineering,Electrical Engineering,Govind Gawande,120190474,724,7,2,8,9,26,1.64E+09,Poor
+725, Vedant Ghodki,,MIT Academy of Engineering,Civil Engineering, Vedant Ghodki,120190475,725,0,2,7,7,16,1.64E+09,Poor
+726,Sachin halikhede,,MIT Academy of Engineering,Information Technology,Sachin halikhede,120190476,726,7,2,10,9,28,1.64E+09,Poor
+727,Shreyamsh Jadhav,,MIT Academy of Engineering,Computer Science,Shreyamsh Jadhav,120190477,727,0,4,16,15,35,1.64E+09,Average
+728,Vaishnavi Jadhav,,MIT Academy of Engineering,Mechnical Engineering,Vaishnavi Jadhav,120190478,728,0,4,14,17,35,1.64E+09,Average
+729,Tejas Jagtap,,MIT Academy of Engineering,Chemical Engineering,Tejas Jagtap,120190479,729,5,2,8,12,27,1.64E+09,Poor
+730,Siddharth Jha,,MIT Academy of Engineering,Electronic and Telecommunication,Siddharth Jha,120190480,730,5,3,8,10,26,1.64E+09,Poor
+731,Kakshank Jumade,,MIT Academy of Engineering,Electrical Engineering,Kakshank Jumade,120190481,731,12,3,11,12,38,1.64E+09,Average
+732,Jaydeep kakde,,MIT Academy of Engineering,Civil Engineering,Jaydeep kakde,120190482,732,11,4,11,13,39,1.64E+09,Average
+733,Kalp Chobisa,,MIT Academy of Engineering,Information Technology,Kalp Chobisa,120190483,733,15,4,17,15,51,1.64E+09,Average
+734,Aniket Kedar,,MIT Academy of Engineering,Computer Science,Aniket Kedar,120190484,734,3,3,8,8,22,1.64E+09,Poor
+735,Shubham Kendre,,MIT Academy of Engineering,Mechnical Engineering,Shubham Kendre,120190485,735,17,4,15,18,54,1.64E+09,Average
+736,Vyankatesh Khandke,,MIT Academy of Engineering,Chemical Engineering,Vyankatesh Khandke,120190486,736,0,2,8,6,16,1.64E+09,Poor
+737,Praktan Khatavkar,,MIT Academy of Engineering,Electronic and Telecommunication,Praktan Khatavkar,120190487,737,9,4,10,10,33,1.64E+09,Poor
+738,Sudarshan Kolarkar,,MIT Academy of Engineering,Electrical Engineering,Sudarshan Kolarkar,120190488,738,19,4,17,17,57,1.64E+09,Good
+739,Shubham Kotkar,,MIT Academy of Engineering,Civil Engineering,Shubham Kotkar,120190489,739,17,5,18,20,60,1.64E+09,Good
+740,Nanul Kumar,,MIT Academy of Engineering,Information Technology,Nanul Kumar,120190490,740,16,4,15,14,49,1.64E+09,Average
+741,Sanket Mahajan,,MIT Academy of Engineering,Computer Science,Sanket Mahajan,120190491,741,13,4,16,11,44,1.64E+09,Average
+742,Sumit Mahajan,,MIT Academy of Engineering,Mechnical Engineering,Sumit Mahajan,120190492,742,8,2,7,8,25,1.64E+09,Poor
+743,Manoranjan jena,,MIT Academy of Engineering,Chemical Engineering,Manoranjan jena,120190493,743,18,4,15,16,53,1.64E+09,Average
+744,Mayuresh Kumar,,MIT Academy of Engineering,Electronic and Telecommunication,Mayuresh Kumar,120190494,744,16,4,14,17,51,1.64E+09,Average
+745,Anshul Meshram,,MIT Academy of Engineering,Electrical Engineering,Anshul Meshram,120190495,745,6,2,8,7,23,1.64E+09,Poor
+746,Manoranjan Mundagal,,MIT Academy of Engineering,Civil Engineering,Manoranjan Mundagal,120190496,746,7,2,10,16,35,1.64E+09,Average
+747,Vedant Mukhedar,,MIT Academy of Engineering,Information Technology,Vedant Mukhedar,120190497,747,5,1,8,10,24,1.64E+09,Poor
+748,Radha nadar,,MIT Academy of Engineering,Computer Science,Radha nadar,120190498,748,13,4,14,11,42,1.64E+09,Average
+749,Sushant Pardhi,,MIT Academy of Engineering,Mechnical Engineering,Sushant Pardhi,120190499,749,5,2,7,17,31,1.64E+09,Poor
+750,Sumedh Patil,,MIT Academy of Engineering,Chemical Engineering,Sumedh Patil,120190500,750,13,4,6,14,37,1.64E+09,Average
+751,Mayur Pawar,,MIT Academy of Engineering,Electronic and Telecommunication,Mayur Pawar,120190501,751,19,5,14,16,54,1.64E+09,Average
+752,Piyush Walde,,MIT Academy of Engineering,Electrical Engineering,Piyush Walde,120190502,752,18,4,12,11,45,1.64E+09,Average
+753,Rahul Pradhan,,MIT Academy of Engineering,Civil Engineering,Rahul Pradhan,120190503,753,13,3,13,15,44,1.64E+09,Average
+754,Tanaya Raut,,MIT Academy of Engineering,Information Technology,Tanaya Raut,120190504,754,13,4,14,11,42,1.64E+09,Average
+755,Vedika Raut,,MIT Academy of Engineering,Computer Science,Vedika Raut,120190505,755,4,0,7,9,20,1.64E+09,Poor
+756,Rajesh Sahoo,,MIT Academy of Engineering,Mechnical Engineering,Rajesh Sahoo,120190506,756,11,3,13,12,39,1.64E+09,Average
+757,Vnayak Smyak,,MIT Academy of Engineering,Chemical Engineering,Vnayak Smyak,120190507,757,12,4,14,12,42,1.64E+09,Average
+758,Adesh Shendkar,,MIT Academy of Engineering,Electronic and Telecommunication,Adesh Shendkar,120190508,758,11,2,15,11,39,1.64E+09,Average
+759,kaushal Shetty,,MIT Academy of Engineering,Electrical Engineering,kaushal Shetty,120190509,759,13,4,17,14,48,1.64E+09,Average
+760,Atharva Shinde,,MIT Academy of Engineering,Civil Engineering,Atharva Shinde,120190510,760,9,3,13,15,40,1.64E+09,Average
+761,Shraddha Shinde,,MIT Academy of Engineering,Information Technology,Shraddha Shinde,120190511,761,0,5,20,17,42,1.64E+09,Average
+762,Siddhant Tupsakhare,,MIT Academy of Engineering,Computer Science,Siddhant Tupsakhare,120190512,762,0,4,11,14,29,1.64E+09,Poor
+763,Siddhesh Nimawat,,MIT Academy of Engineering,Mechnical Engineering,Siddhesh Nimawat,120190513,763,6,2,13,11,32,1.64E+09,Poor
+764,Smriti,,MIT Academy of Engineering,Chemical Engineering,Smriti,120190514,764,18,4,15,13,50,1.64E+09,Average
+765,Vanshika Sonekar,,MIT Academy of Engineering,Electronic and Telecommunication,Vanshika Sonekar,120190515,765,11,4,16,13,44,1.64E+09,Average
+766,Sovik Sharma,,MIT Academy of Engineering,Electrical Engineering,Sovik Sharma,120190516,766,3,2,15,17,37,1.64E+09,Average
+767,Divya Tadas,,MIT Academy of Engineering,Civil Engineering,Divya Tadas,120190517,767,8,4,11,8,31,1.64E+09,Poor
+768,Yash Umbarkar,,MIT Academy of Engineering,Information Technology,Yash Umbarkar,120190518,768,20,3,16,13,52,1.64E+09,Average
+769,Shivam Tosshniwal,,MIT Academy of Engineering,Computer Science,Shivam Tosshniwal,120190519,769,1,0,13,9,23,1.64E+09,Poor
+770,Vedantika Eagh,,MIT Academy of Engineering,Mechnical Engineering,Vedantika Eagh,120190520,770,3,2,14,16,35,1.64E+09,Average
+771,Aaditya Wani,,MIT Academy of Engineering,Chemical Engineering,Aaditya Wani,120190521,771,14,3,12,14,43,1.64E+09,Average
+772,Viraj yadav,,MIT Academy of Engineering,Electronic and Telecommunication,Viraj yadav,120190522,772,18,4,13,11,46,1.64E+09,Average
+773,Yash Sakhale,,MIT Academy of Engineering,Electrical Engineering,Yash Sakhale,120190523,773,17,3,15,17,52,1.64E+09,Average
+774,Atharv Yeole,,MIT Academy of Engineering,Civil Engineering,Atharv Yeole,120190524,774,6,3,11,16,36,1.64E+09,Average
+775,Durgesg Fateknar,,MIT Academy of Engineering,Information Technology,Durgesg Fateknar,120190525,775,15,3,14,17,49,1.64E+09,Average
+801,Chinmayi Alshetty,,MIT Academy of Engineering,Computer Science,Chinmayi Alshetty,120190526,801,8,3,10,14,35,1.64E+09,Average
+802,Amit Kumar,,MIT Academy of Engineering,Mechnical Engineering,Amit Kumar,120190527,802,13,2,10,8,33,1.64E+09,Poor
+803,Rajiv Amol,,MIT Academy of Engineering,Chemical Engineering,Rajiv Amol,120190528,803,7,4,10,12,33,1.64E+09,Poor
+804,Sneha Athawale,,MIT Academy of Engineering,Electronic and Telecommunication,Sneha Athawale,120190529,804,10,5,15,18,48,1.64E+09,Average
+805,Harshvardhan Barge,,MIT Academy of Engineering,Electrical Engineering,Harshvardhan Barge,120190530,805,0,3,10,10,23,1.64E+09,Poor
+806,Meet Bedmutha,,MIT Academy of Engineering,Civil Engineering,Meet Bedmutha,120190531,806,17,4,5,14,40,1.64E+09,Average
+807,Aishwarya Bhalme,,MIT Academy of Engineering,Information Technology,Aishwarya Bhalme,120190532,807,5,2,7,11,25,1.64E+09,Poor
+808,Pranav Bhujbal,,MIT Academy of Engineering,Computer Science,Pranav Bhujbal,120190533,808,6,4,7,11,28,1.64E+09,Poor
+809,Aditya Bodke,,MIT Academy of Engineering,Mechnical Engineering,Aditya Bodke,120190534,809,12,4,16,18,50,1.64E+09,Average
+810,Aditi Borkar,,MIT Academy of Engineering,Chemical Engineering,Aditi Borkar,120190535,810,1,0,6,6,13,1.64E+09,Poor
+811,Chandan Yadav,,MIT Academy of Engineering,Electronic and Telecommunication,Chandan Yadav,120190536,811,10,3,12,13,38,1.64E+09,Average
+812,Kaushal Chaudhari,,MIT Academy of Engineering,Electrical Engineering,Kaushal Chaudhari,120190537,812,8,2,10,12,32,1.64E+09,Poor
+813,Vaibhavi Chopade,,MIT Academy of Engineering,Civil Engineering,Vaibhavi Chopade,120190538,813,4,0,8,14,26,1.64E+09,Poor
+814,Dakshay Kumar,,MIT Academy of Engineering,Information Technology,Dakshay Kumar,120190539,814,16,4,15,17,52,1.64E+09,Average
+815,Saharsh Dalal,,MIT Academy of Engineering,Computer Science,Saharsh Dalal,120190540,815,0,3,9,9,21,1.64E+09,Poor
+816,Devashish Dani,,MIT Academy of Engineering,Mechnical Engineering,Devashish Dani,120190541,816,10,3,14,13,40,1.64E+09,Average
+817,Harshal Deshmukh,,MIT Academy of Engineering,Chemical Engineering,Harshal Deshmukh,120190542,817,11,2,13,15,41,1.64E+09,Average
+818,Vinayak Deshpande,,MIT Academy of Engineering,Electronic and Telecommunication,Vinayak Deshpande,120190543,818,17,4,15,15,51,1.64E+09,Average
+819,Yeash Deshpande,,MIT Academy of Engineering,Electrical Engineering,Yeash Deshpande,120190544,819,13,4,11,14,42,1.64E+09,Average
+820,Om dhamdhere,,MIT Academy of Engineering,Civil Engineering,Om dhamdhere,120190545,820,20,4,16,17,57,1.64E+09,Good
+821,Mahit Dhande,,MIT Academy of Engineering,Information Technology,Mahit Dhande,120190546,821,12,3,10,14,39,1.64E+09,Average
+822,Abhijeet Dhanwate,,MIT Academy of Engineering,Computer Science,Abhijeet Dhanwate,120190547,822,15,3,13,11,42,1.64E+09,Average
+823,Namrata Dhobale,,MIT Academy of Engineering,Mechnical Engineering,Namrata Dhobale,120190548,823,10,4,13,12,39,1.64E+09,Average
+824,Shruti Diwate,,MIT Academy of Engineering,Chemical Engineering,Shruti Diwate,120190549,824,9,3,6,8,26,1.64E+09,Poor
+825,Suchand Dongare,,MIT Academy of Engineering,Electronic and Telecommunication,Suchand Dongare,120190550,825,0,2,5,5,12,1.64E+09,Poor
+826,Azhar Dongre,,MIT Academy of Engineering,Electrical Engineering,Azhar Dongre,120190551,826,13,4,15,13,45,1.64E+09,Average
+827,Fardeen Khan,,MIT Academy of Engineering,Civil Engineering,Fardeen Khan,120190552,827,14,5,17,20,56,1.64E+09,Good
+828,Samiksha Gade,,MIT Academy of Engineering,Information Technology,Samiksha Gade,120190553,828,10,3,13,14,40,1.64E+09,Average
+829,Ridhesh Gadre,,MIT Academy of Engineering,Computer Science,Ridhesh Gadre,120190554,829,11,4,15,15,45,1.64E+09,Average
+830,Shyamal Gaurav,,MIT Academy of Engineering,Mechnical Engineering,Shyamal Gaurav,120190555,830,10,4,15,16,45,1.64E+09,Average
+831,Abhay Gondane,,MIT Academy of Engineering,Chemical Engineering,Abhay Gondane,120190556,831,8,3,10,15,36,1.64E+09,Average
+832,Harsh Bhosale,,MIT Academy of Engineering,Electronic and Telecommunication,Harsh Bhosale,120190557,832,4,2,8,8,22,1.64E+09,Poor
+833,Santoshi Hatte,,MIT Academy of Engineering,Electrical Engineering,Santoshi Hatte,120190558,833,2,3,10,15,30,1.64E+09,Poor
+834,Pranav hatwar,,MIT Academy of Engineering,Civil Engineering,Pranav hatwar,120190559,834,7,4,9,11,31,1.64E+09,Poor
+835,Hitanshu Macchi,,MIT Academy of Engineering,Information Technology,Hitanshu Macchi,120190560,835,10,3,15,14,42,1.64E+09,Average
+836,Smita jadhav,,MIT Academy of Engineering,Computer Science,Smita jadhav,120190561,836,7,4,9,7,27,1.64E+09,Poor
+837,Megraj jawale,,MIT Academy of Engineering,Mechnical Engineering,Megraj jawale,120190562,837,4,5,17,15,41,1.64E+09,Average
+838,Swateja Kad,,MIT Academy of Engineering,Chemical Engineering,Swateja Kad,120190563,838,8,2,8,6,24,1.64E+09,Poor
+839,Asavari Kalse,,MIT Academy of Engineering,Electronic and Telecommunication,Asavari Kalse,120190564,839,19,4,15,18,56,1.64E+09,Good
+840,Samruddhi kedari,,MIT Academy of Engineering,Electrical Engineering,Samruddhi kedari,120190565,840,7,4,8,11,30,1.64E+09,Poor
+841,Keshav Dubey,,MIT Academy of Engineering,Civil Engineering,Keshav Dubey,120190566,841,17,4,15,15,51,1.64E+09,Average
+842,Adwait Kharkar,,MIT Academy of Engineering,Information Technology,Adwait Kharkar,120190567,842,17,4,17,18,56,1.64E+09,Good
+843,Rutuja Kokate,,MIT Academy of Engineering,Computer Science,Rutuja Kokate,120190568,843,3,1,5,8,17,1.64E+09,Poor
+844,Krushna Kolase,,MIT Academy of Engineering,Mechnical Engineering,Krushna Kolase,120190569,844,17,3,14,14,48,1.64E+09,Average
+845,Rohan Kotkar,,MIT Academy of Engineering,Chemical Engineering,Rohan Kotkar,120190570,845,4,4,17,16,41,1.64E+09,Average
+846,Kanket Kurai,,MIT Academy of Engineering,Electronic and Telecommunication,Kanket Kurai,120190571,846,12,3,14,14,43,1.64E+09,Average
+847,Manohar Lalit,,MIT Academy of Engineering,Electrical Engineering,Manohar Lalit,120190572,847,6,2,7,8,23,1.64E+09,Poor
+848,Luv Sharma,,MIT Academy of Engineering,Civil Engineering,Luv Sharma,120190573,848,19,5,17,16,57,1.64E+09,Good
+849,Omkar Mahale,,MIT Academy of Engineering,Information Technology,Omkar Mahale,120190574,849,6,3,8,11,28,1.64E+09,Poor
+850,Abhishek mali,,MIT Academy of Engineering,Computer Science,Abhishek mali,120190575,850,14,3,10,15,42,1.64E+09,Average
+851,Rohit Mundhe,,MIT Academy of Engineering,Mechnical Engineering,Rohit Mundhe,120190576,851,16,4,17,18,55,1.64E+09,Good
+852,Ganesh Naik,,MIT Academy of Engineering,Chemical Engineering,Ganesh Naik,120190577,852,19,4,10,15,48,1.64E+09,Average
+853,Sanket Nangare,,MIT Academy of Engineering,Electronic and Telecommunication,Sanket Nangare,120190578,853,11,3,13,11,38,1.64E+09,Average
+854,Rutika Narhare,,MIT Academy of Engineering,Electrical Engineering,Rutika Narhare,120190579,854,0,2,7,9,18,1.64E+09,Poor
+855,Shivaji Nawale,,MIT Academy of Engineering,Civil Engineering,Shivaji Nawale,120190580,855,11,3,15,13,42,1.64E+09,Average
+856,Abhishek nayak,,MIT Academy of Engineering,Information Technology,Abhishek nayak,120190581,856,7,4,10,11,32,1.64E+09,Poor
+857,Neeraj sharma,,MIT Academy of Engineering,Computer Science,Neeraj sharma,120190582,857,11,3,16,17,47,1.64E+09,Average
+858,Aditya Neware,,MIT Academy of Engineering,Mechnical Engineering,Aditya Neware,120190583,858,10,3,16,12,41,1.64E+09,Average
+859,Ashwini Neware,,MIT Academy of Engineering,Chemical Engineering,Ashwini Neware,120190584,859,14,5,13,11,43,1.64E+09,Average
+860,Uday Padole,,MIT Academy of Engineering,Electronic and Telecommunication,Uday Padole,120190585,860,0,3,13,15,31,1.64E+09,Poor
+861,Raj Pandey,,MIT Academy of Engineering,Electrical Engineering,Raj Pandey,120190586,861,18,4,18,18,58,1.64E+09,Good
+862,Vipul Patel,,MIT Academy of Engineering,Civil Engineering,Vipul Patel,120190587,862,3,2,8,15,28,1.64E+09,Poor
+863,Adarsh Pawar,,MIT Academy of Engineering,Information Technology,Adarsh Pawar,120190588,863,12,3,14,13,42,1.64E+09,Average
+864,Laukik Pawle,,MIT Academy of Engineering,Computer Science,Laukik Pawle,120190589,864,1,0,5,17,23,1.64E+09,Poor
+865,Rajwansh Singh,,MIT Academy of Engineering,Mechnical Engineering,Rajwansh Singh,120190590,865,5,0,7,14,26,1.64E+09,Poor
+866,Rohitgir Gosavi,,MIT Academy of Engineering,Chemical Engineering,Rohitgir Gosavi,120190591,866,15,5,16,14,50,1.64E+09,Average
+867,Sanika Pareek,,MIT Academy of Engineering,Electronic and Telecommunication,Sanika Pareek,120190592,867,12,3,15,11,41,1.64E+09,Average
+868,Nilima Satote,,MIT Academy of Engineering,Electrical Engineering,Nilima Satote,120190593,868,16,4,15,17,52,1.64E+09,Average
+869,Tejar Shar,,MIT Academy of Engineering,Civil Engineering,Tejar Shar,120190594,869,19,4,14,11,48,1.64E+09,Average
+870,Shreyash Moundekar,,MIT Academy of Engineering,Information Technology,Shreyash Moundekar,120190595,870,5,2,7,9,23,1.64E+09,Poor
+871,Shreyash Thorat,,MIT Academy of Engineering,Computer Science,Shreyash Thorat,120190596,871,4,3,10,11,28,1.64E+09,Poor
+872,Anuj Tonge,,MIT Academy of Engineering,Mechnical Engineering,Anuj Tonge,120190597,872,15,5,13,18,51,1.64E+09,Average
+873,Pratik Vibhute,,MIT Academy of Engineering,Chemical Engineering,Pratik Vibhute,120190598,873,4,2,8,10,24,1.64E+09,Poor
+874,Vitthal Sai Kaul,,MIT Academy of Engineering,Electronic and Telecommunication,Vitthal Sai Kaul,120190599,874,9,4,7,14,34,1.64E+09,Poor
+875,Prerna Painter,,MIT Academy of Engineering,Electrical Engineering,Prerna Painter,120190600,875,13,3,5,11,32,1.64E+09,Poor

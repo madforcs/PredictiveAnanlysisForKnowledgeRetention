@@ -1,0 +1,601 @@
+First name,Surname,Email address,PRN,Department,CGPA
+101,Aabhinav Singh,Aabhinav Singh,120190001,Computer Science,9.27
+102,Aditi Bobade,Aditi Bobade,120190002,Mechnical Engineering,7.45
+103,Adwait Thangan,Adwait Thangan,120190003,Chemical Engineering,7.83
+104,Akhil Chopde,Akhil Chopde,120190004,Electronic and Telecommunication,8.94
+105,Gaurav Aundkar,Gaurav Aundkar,120190005,Electrical Engineering,7.96
+106,Avishkar Nikam,Avishkar Nikam,120190006,Civil Engineering,8.70
+107,Nandini barkul,Nandini barkul,120190007,Information Technology,8.91
+108,Lokesh Bhangale,Lokesh Bhangale,120190008,Computer Science,7.13
+109,Anish Bhat,Anish Bhat,120190009,Mechnical Engineering,7.54
+110,Haridas Bhidave,Haridas Bhidave,120190010,Chemical Engineering,7.14
+111,Yashwardhan Bhise,Yashwardhan Bhise,120190011,Electronic and Telecommunication,9.18
+112,Manav Bhosale,Manav Bhosale,120190012,Electrical Engineering,8.32
+113,Akshata Bhosle,Akshata Bhosle,120190013,Civil Engineering,9.20
+114,Pranali Bhujbal,Pranali Bhujbal,120190014,Information Technology,8.07
+115,Sahil Bhutada,Sahil Bhutada,120190015,Computer Science,7.65
+116,Akshay Bhodke,Akshay Bhodke,120190016,Mechnical Engineering,8.39
+117,Pranav Budge,Pranav Budge,120190017,Chemical Engineering,7.98
+118,Prachi Channe,Prachi Channe,120190018,Electronic and Telecommunication,7.28
+119,Yash Charpe,Yash Charpe,120190019,Electrical Engineering,8.08
+120,Divya Chaudhari,Divya Chaudhari,120190020,Civil Engineering,8.27
+121,Adesh Chirayu,Adesh Chirayu,120190021,Information Technology,8.39
+122,Prutviraje Deshmukh,Prutviraje Deshmukh,120190022,Computer Science,8.81
+123,Shubham Deshmukh,Shubham Deshmukh,120190023,Mechnical Engineering,8.32
+124,Aniket Dhote,Aniket Dhote,120190024,Chemical Engineering,8.34
+125,Eva Khajuria,Eva Khajuria,120190025,Electronic and Telecommunication,7.18
+126,Niranjan Gadge,Niranjan Gadge,120190026,Electrical Engineering,8.03
+127,Mahesh Gaikwad,Mahesh Gaikwad,120190027,Civil Engineering,9.19
+128,Sushant Gawade,Sushant Gawade,120190028,Information Technology,8.88
+129,Yogesh Gorde,Yogesh Gorde,120190029,Computer Science,8.42
+130,Sumit Hale,Sumit Hale,120190030,Mechnical Engineering,7.87
+131,Tanmay ikare,Tanmay ikare,120190031,Chemical Engineering,8.17
+132,Hardik Jade,Hardik Jade,120190032,Electronic and Telecommunication,7.46
+133,Vaishnavi Jadhav,Vaishnavi Jadhav,120190033,Electrical Engineering,7.42
+134,Yash Jaware,Yash Jaware,120190034,Civil Engineering,9.40
+135,Shantanu Kadam,Shantanu Kadam,120190035,Information Technology,7.25
+136,Shreya Karmankar,Shreya Karmankar,120190036,Computer Science,7.31
+137,Tanmay Kathane,Tanmay Kathane,120190037,Mechnical Engineering,8.14
+138,Prathamesh Kolawale,Prathamesh Kolawale,120190038,Chemical Engineering,8.95
+139,Siddharth Koli,Siddharth Koli,120190039,Electronic and Telecommunication,7.57
+140,Shubham Kotgire,Shubham Kotgire,120190040,Electrical Engineering,7.87
+141,Atharva Kumbhar,Atharva Kumbhar,120190041,Civil Engineering,9.34
+142,Gaurav Likhar,Gaurav Likhar,120190042,Information Technology,7.76
+143,Pradeep Lolabhattu,Pradeep Lolabhattu,120190043,Computer Science,8.79
+144,Rutik Mahadik,Rutik Mahadik,120190044,Mechnical Engineering,9.26
+145,Varun Manaji,Varun Manaji,120190045,Chemical Engineering,8.91
+146,Mansi Singh,Mansi Singh,120190046,Electronic and Telecommunication,8.62
+147,Madhav Mokashi,Madhav Mokashi,120190047,Electrical Engineering,8.17
+148,Mukesh Gurpute,Mukesh Gurpute,120190048,Civil Engineering,7.46
+149,Muskan kumari,Muskan kumari,120190049,Information Technology,7.97
+150,Tanisha Nazare,Tanisha Nazare,120190050,Computer Science,7.82
+151,Omkar Nehere,Omkar Nehere,120190051,Mechnical Engineering,8.85
+152,Kirti Nikam,Kirti Nikam,120190052,Chemical Engineering,7.63
+153,Pradeep Nikita,Pradeep Nikita,120190053,Electronic and Telecommunication,9.49
+154,Sakshi Patil,Sakshi Patil,120190054,Electrical Engineering,7.24
+155,Sakshi Pujari,Sakshi Pujari,120190055,Civil Engineering,7.64
+156,Rishikesh Chapekar,Rishikesh Chapekar,120190056,Information Technology,8.08
+157,Sahil sharma,Sahil sharma,120190057,Computer Science,9.53
+158,Sandeep Lokhande,Sandeep Lokhande,120190058,Mechnical Engineering,7.52
+159,Sarth Kumar,Sarth Kumar,120190059,Chemical Engineering,8.45
+160,Prathamesh Sawant,Prathamesh Sawant,120190060,Electronic and Telecommunication,8.46
+161,Sadaf Shaikh,Sadaf Shaikh,120190061,Electrical Engineering,9.07
+162,Vaibhav Shinde,Vaibhav Shinde,120190062,Civil Engineering,7.51
+163,Dashmesh Singh,Dashmesh Singh,120190063,Information Technology,7.33
+164,Sneha Sethi,Sneha Sethi,120190064,Computer Science,8.19
+165,Suparna Das,Suparna Das,120190065,Mechnical Engineering,8.92
+166,Tanishka Nair,Tanishka Nair,120190066,Chemical Engineering,9.19
+167,Dhanashree Telang,Dhanashree Telang,120190067,Electronic and Telecommunication,7.31
+168,Vidhi Thakre,Vidhi Thakre,120190068,Electrical Engineering,7.49
+169,Animesh Thakre,Animesh Thakre,120190069,Civil Engineering,8.95
+170,Rushikesh Thange,Rushikesh Thange,120190070,Information Technology,8.97
+171,Udyanraje Bhosale,Udyanraje Bhosale,120190071,Computer Science,7.37
+172,Atharva Umbarkar,Atharva Umbarkar,120190072,Mechnical Engineering,8.63
+173,Pratiksha Waghamode,Pratiksha Waghamode,120190073,Chemical Engineering,9.05
+174,Siddhant Yeole,Siddhant Yeole,120190074,Electronic and Telecommunication,7.92
+175,Atharva Mahajan,Atharva Mahajan,120190075,Electrical Engineering,8.77
+201,Abhijit Dukare,Abhijit Dukare,120190076,Civil Engineering,8.70
+202,SHarwari Ambade,SHarwari Ambade,120190077,Information Technology,9.16
+203,Shruti Anasane,Shruti Anasane,120190078,Computer Science,7.79
+204,Aniket Aradwad,Aniket Aradwad,120190079,Mechnical Engineering,9.11
+205,Akash Athani,Akash Athani,120190080,Chemical Engineering,8.28
+206,Ayush Choudhary,Ayush Choudhary,120190081,Electronic and Telecommunication,8.34
+207,Yash Bagul,Yash Bagul,120190082,Electrical Engineering,9.36
+208,Yash bansod,Yash bansod,120190083,Civil Engineering,7.57
+209,Aditya Bedre,Aditya Bedre,120190084,Information Technology,9.45
+210,Kshanik Bhagat,Kshanik Bhagat,120190085,Computer Science,9.28
+211,Soham Bharambe,Soham Bharambe,120190086,Mechnical Engineering,8.68
+212,Sahil Bhawani,Sahil Bhawani,120190087,Chemical Engineering,8.40
+213,Ganesh Bhojane,Ganesh Bhojane,120190088,Electronic and Telecommunication,9.29
+214,Purvi bhoyar,Purvi bhoyar,120190089,Electrical Engineering,8.56
+215,Onkar bilure,Onkar bilure,120190090,Civil Engineering,9.18
+216,Amol Biradar,Amol Biradar,120190091,Information Technology,8.86
+217,Sayali Chaudhari,Sayali Chaudhari,120190092,Computer Science,7.29
+218,Ashwini chavan,Ashwini chavan,120190093,Mechnical Engineering,8.37
+219,Shreya Chavhan,Shreya Chavhan,120190094,Chemical Engineering,7.11
+220,Mihir Daiv,Mihir Daiv,120190095,Electronic and Telecommunication,8.28
+221,Shrikant Deshmukh,Shrikant Deshmukh,120190096,Electrical Engineering,7.57
+222,Prathamesh Deshmukh,Prathamesh Deshmukh,120190097,Civil Engineering,8.23
+223,Omkar Dhumne,Omkar Dhumne,120190098,Information Technology,7.48
+224,Falguni Charde,Falguni Charde,120190099,Computer Science,7.59
+225,Mayur Gadhave,Mayur Gadhave,120190100,Mechnical Engineering,9.35
+226,Nikita Garudkar,Nikita Garudkar,120190101,Chemical Engineering,9.56
+227,Gautam Das,Gautam Das,120190102,Electronic and Telecommunication,7.51
+228,Gautam Chhanulal,Gautam Chhanulal,120190103,Electrical Engineering,8.19
+229,Pranjal Gawali,Pranjal Gawali,120190104,Civil Engineering,9.48
+230,Prasad Gore,Prasad Gore,120190105,Information Technology,7.51
+231,Mayank Harer,Mayank Harer,120190106,Computer Science,9.38
+232,Sanket Haude,Sanket Haude,120190107,Mechnical Engineering,8.19
+233,Tejas Kalje,Tejas Kalje,120190108,Chemical Engineering,8.04
+234,Akshay Kapase,Akshay Kapase,120190109,Electronic and Telecommunication,8.06
+235,Pratik Karle,Pratik Karle,120190110,Electrical Engineering,9.18
+236,Karthik Gunturi,Karthik Gunturi,120190111,Civil Engineering,7.29
+237,Yashraj Kharade,Yashraj Kharade,120190112,Information Technology,9.06
+238,Dhiraj Komb,Dhiraj Komb,120190113,Computer Science,8.47
+239,Adarsh Korde,Adarsh Korde,120190114,Mechnical Engineering,8.66
+240,Krishnakant Kumar,Krishnakant Kumar,120190115,Chemical Engineering,7.31
+241,Onkar Kulkarni,Onkar Kulkarni,120190116,Electronic and Telecommunication,7.87
+242,Shweta Kumar,Shweta Kumar,120190117,Electrical Engineering,9.33
+243,Tanmay Kurjekar,Tanmay Kurjekar,120190118,Civil Engineering,9.53
+244,Tejas Lichade,Tejas Lichade,120190119,Information Technology,7.47
+245,Kunal Lokhande,Kunal Lokhande,120190120,Computer Science,8.10
+246,Madhurendra Kumar,Madhurendra Kumar,120190121,Mechnical Engineering,8.01
+247,Sayali madkar,Sayali madkar,120190122,Chemical Engineering,9.46
+248,Ajay Mahajan,Ajay Mahajan,120190123,Electronic and Telecommunication,8.12
+249,Avishkar Mali,Avishkar Mali,120190124,Electrical Engineering,8.26
+250,Ketaki Mankar,Ketaki Mankar,120190125,Civil Engineering,7.31
+251,Mayasir Yasir,Mayasir Yasir,120190126,Information Technology,7.55
+252,Abahs Modak,Abahs Modak,120190127,Computer Science,7.60
+253,Dhiraj Patil,Dhiraj Patil,120190128,Mechnical Engineering,9.50
+254,Ankita Patsute,Ankita Patsute,120190129,Chemical Engineering,8.49
+255,Abhishek Pawar,Abhishek Pawar,120190130,Electronic and Telecommunication,9.17
+256,Mayur Pawar,Mayur Pawar,120190131,Electrical Engineering,8.04
+257,Mahit Pawar,Mahit Pawar,120190132,Civil Engineering,8.39
+258,Komal Phutane,Komal Phutane,120190133,Information Technology,8.37
+259,Mahesh Pinnarwar,Mahesh Pinnarwar,120190134,Computer Science,8.34
+260,Adarsh Prakhar,Adarsh Prakhar,120190135,Mechnical Engineering,8.27
+261,Soham Raut,Soham Raut,120190136,Chemical Engineering,7.63
+262,Prathamesh Sadakal,Prathamesh Sadakal,120190137,Electronic and Telecommunication,9.59
+263,Tejas Sangale,Tejas Sangale,120190138,Electrical Engineering,8.81
+264,Sameer Sha,Sameer Sha,120190139,Civil Engineering,9.36
+265,Tauhid Shaikh,Tauhid Shaikh,120190140,Information Technology,7.82
+266,Kaustubh Shelar,Kaustubh Shelar,120190141,Computer Science,9.59
+267,Shilpi Roy,Shilpi Roy,120190142,Mechnical Engineering,7.86
+268,Shivam Shinde,Shivam Shinde,120190143,Chemical Engineering,7.27
+269,Shruti Pawar,Shruti Pawar,120190144,Electronic and Telecommunication,7.26
+270,Kedar Shukla,Kedar Shukla,120190145,Electrical Engineering,7.84
+271,Om thakur,Om thakur,120190146,Civil Engineering,7.72
+272,Tejas Thawari,Tejas Thawari,120190147,Information Technology,8.40
+273,Priyanshu Tripathi,Priyanshu Tripathi,120190148,Computer Science,7.50
+274,Tushar Patil,Tushar Patil,120190149,Mechnical Engineering,8.14
+275,Chaitanya Wagh,Chaitanya Wagh,120190150,Chemical Engineering,7.62
+301,Aaditya Barve,Aaditya Barve,120190151,Electronic and Telecommunication,8.90
+302,Aaditya Faye,Aaditya Faye,120190152,Electrical Engineering,8.57
+303,Abhishek Padha,Abhishek Padha,120190153,Civil Engineering,8.42
+304,Aaditya Balowria,Aaditya Balowria,120190154,Information Technology,7.67
+305,Anansh Gupta,Anansh Gupta,120190155,Computer Science,9.16
+306,Anuja Barge,Anuja Barge,120190156,Mechnical Engineering,8.87
+307,Nandini Bawankar,Nandini Bawankar,120190157,Chemical Engineering,9.32
+308,Rohan Bhadane,Rohan Bhadane,120190158,Electronic and Telecommunication,9.53
+309,Pratik Bhange,Pratik Bhange,120190159,Electrical Engineering,8.58
+310,Vedan Bhavsar,Vedan Bhavsar,120190160,Civil Engineering,8.63
+311,Ranjeet bhosale,Ranjeet bhosale,120190161,Information Technology,9.48
+312,Lalit Chacharkar,Lalit Chacharkar,120190162,Computer Science,9.31
+313,Charudatta Topare,Charudatta Topare,120190163,Mechnical Engineering,8.02
+314,Shivhar Chate,Shivhar Chate,120190164,Chemical Engineering,9.27
+315,Rameshwar Chavan,Rameshwar Chavan,120190165,Electronic and Telecommunication,8.66
+316,Santoshwar Deep,Santoshwar Deep,120190166,Electrical Engineering,9.46
+317,Yogam Dekate,Yogam Dekate,120190167,Civil Engineering,9.54
+318,Snehal Dere,Snehal Dere,120190168,Information Technology,7.98
+319,Manasi Deshpande,Manasi Deshpande,120190169,Computer Science,7.40
+320,Snaket Dhamshedwar,Snaket Dhamshedwar,120190170,Mechnical Engineering,7.58
+321,Samruddhi Dhanvijay,Samruddhi Dhanvijay,120190171,Chemical Engineering,9.44
+322,Ritiket Dukare,Ritiket Dukare,120190172,Electronic and Telecommunication,7.58
+323,Kiran Fartade,Kiran Fartade,120190173,Electrical Engineering,9.43
+324,Kunal Gedam,Kunal Gedam,120190174,Civil Engineering,8.51
+325,Yashodhan Ghule,Yashodhan Ghule,120190175,Information Technology,9.39
+326,Gourav Gupta,Gourav Gupta,120190176,Computer Science,9.00
+327,Ashish Gurav,Ashish Gurav,120190177,Mechnical Engineering,9.39
+328,Himanshu Sengar,Himanshu Sengar,120190178,Chemical Engineering,7.58
+329,Asha Honshette,Asha Honshette,120190179,Electronic and Telecommunication,7.88
+330,Shivraj Itewad,Shivraj Itewad,120190180,Electrical Engineering,7.20
+331,Daksha Jindani,Daksha Jindani,120190181,Civil Engineering,7.18
+332,Abhijeet Kadoo,Abhijeet Kadoo,120190182,Information Technology,9.20
+333,Subodh Kamble,Subodh Kamble,120190183,Computer Science,7.15
+334,Aniruddha Karad,Aniruddha Karad,120190184,Mechnical Engineering,8.52
+335,Prathamesh Katkhade,Prathamesh Katkhade,120190185,Chemical Engineering,8.19
+336,Chaitanya Kharwade,Chaitanya Kharwade,120190186,Electronic and Telecommunication,8.66
+337,Shrinivas Khatane,Shrinivas Khatane,120190187,Electrical Engineering,7.11
+338,Kshitij Bangde,Kshitij Bangde,120190188,Civil Engineering,8.99
+339,Kshitija Lade,Kshitija Lade,120190189,Information Technology,8.90
+340,Pratik Landge,Pratik Landge,120190190,Computer Science,9.49
+341,Pratham Madhani,Pratham Madhani,120190191,Mechnical Engineering,9.53
+342,Dhiraj Mandal,Dhiraj Mandal,120190192,Chemical Engineering,7.52
+343,Onkar Mandavkar,Onkar Mandavkar,120190193,Electronic and Telecommunication,8.92
+344,Shruti Mane,Shruti Mane,120190194,Electrical Engineering,7.27
+345,Yogesh Mane,Yogesh Mane,120190195,Civil Engineering,8.46
+346,Manish Manohar,Manish Manohar,120190196,Information Technology,7.42
+347,Ruchi Meshram,Ruchi Meshram,120190197,Computer Science,7.30
+348,Mahesh Metange,Mahesh Metange,120190198,Mechnical Engineering,7.92
+349,Yogesh Metkari,Yogesh Metkari,120190199,Chemical Engineering,8.64
+350,Shreyash Mungase,Shreyash Mungase,120190200,Electronic and Telecommunication,9.11
+351,Niraj Wadhe,Niraj Wadhe,120190201,Electrical Engineering,9.15
+352,Swapnil Pachkande,Swapnil Pachkande,120190202,Civil Engineering,7.37
+353,Fiza patel,Fiza patel,120190203,Information Technology,7.84
+354,Avanishkumar Pathak,Avanishkumar Pathak,120190204,Computer Science,8.95
+355,Harshal Patil,Harshal Patil,120190205,Mechnical Engineering,8.84
+356,Pratyoosh Anand,Pratyoosh Anand,120190206,Chemical Engineering,9.09
+357,Lalit Rajput,Lalit Rajput,120190207,Electronic and Telecommunication,8.43
+358,Pratiksha Rale,Pratiksha Rale,120190208,Electrical Engineering,9.03
+359,Aniket Rudraksh,Aniket Rudraksh,120190209,Civil Engineering,8.53
+360,Snehal Sajagane,Snehal Sajagane,120190210,Information Technology,7.73
+361,Shreyash Sakharwade,Shreyash Sakharwade,120190211,Computer Science,9.42
+362,Atul Sangolkar,Atul Sangolkar,120190212,Mechnical Engineering,9.56
+363,Sarang Wadode,Sarang Wadode,120190213,Chemical Engineering,7.37
+364,Nikhil Segaokar,Nikhil Segaokar,120190214,Electronic and Telecommunication,9.07
+365,Himanshu Shimpi,Himanshu Shimpi,120190215,Electrical Engineering,8.33
+366,Ansh Shriwas,Ansh Shriwas,120190216,Civil Engineering,8.42
+367,Pankaj Singh,Pankaj Singh,120190217,Information Technology,7.72
+368,Ashish Somwanshi,Ashish Somwanshi,120190218,Computer Science,8.68
+369,Harshal Tole,Harshal Tole,120190219,Mechnical Engineering,9.50
+370,Vaibhav Dabgotra,Vaibhav Dabgotra,120190220,Chemical Engineering,9.19
+371,Rachana Wasnik,Rachana Wasnik,120190221,Electronic and Telecommunication,8.37
+372,Rohit Waykos,Rohit Waykos,120190222,Electrical Engineering,8.63
+373,Vishal Sule,Vishal Sule,120190223,Civil Engineering,7.76
+374,Pruthviraj Suryawanshi,Pruthviraj Suryawanshi,120190224,Information Technology,9.51
+375,Shubham Jahagirdar,Shubham Jahagirdar,120190225,Computer Science,9.21
+401,Abhishek Kumar,Abhishek Kumar,120190226,Mechnical Engineering,8.94
+402,Adishwar Sharma,Adishwar Sharma,120190227,Chemical Engineering,7.17
+403,Harsh Agarwal,Harsh Agarwal,120190228,Electronic and Telecommunication,8.86
+404,Kaustubh Ahirrao,Kaustubh Ahirrao,120190229,Electrical Engineering,9.23
+405,Akarsh Sharat,Akarsh Sharat,120190230,Civil Engineering,7.72
+406,Aniket yadav,Aniket yadav,120190231,Information Technology,8.56
+407,Anjani nandan,Anjani nandan,120190232,Computer Science,7.61
+408,Anurag Taparia,Anurag Taparia,120190233,Mechnical Engineering,8.64
+409,Aston Shaji,Aston Shaji,120190234,Chemical Engineering,8.73
+410,Shardul Babhulkar,Shardul Babhulkar,120190235,Electronic and Telecommunication,9.13
+411,Kaustubh Barge,Kaustubh Barge,120190236,Electrical Engineering,9.34
+412,Aditya Batule,Aditya Batule,120190237,Civil Engineering,9.26
+413,Kaushik Bhadane,Kaushik Bhadane,120190238,Information Technology,7.73
+414,Akash Bhingare,Akash Bhingare,120190239,Computer Science,7.87
+415,Vinayak Bhosle,Vinayak Bhosle,120190240,Mechnical Engineering,8.85
+416,Shivateja Chalvadhi,Shivateja Chalvadhi,120190241,Chemical Engineering,7.79
+417,Onkar Chandage,Onkar Chandage,120190242,Electronic and Telecommunication,8.67
+418,Sandip Dadas,Sandip Dadas,120190243,Electrical Engineering,8.96
+419,Santoshwar Deep,Santoshwar Deep,120190244,Civil Engineering,8.47
+420,Nishant Dhakne,Nishant Dhakne,120190245,Information Technology,8.87
+421,Chirag Dhande,Chirag Dhande,120190246,Computer Science,8.83
+422,Nansaheb Dudhal,Nansaheb Dudhal,120190247,Mechnical Engineering,7.21
+423,Sakshi Dumbre,Sakshi Dumbre,120190248,Chemical Engineering,8.40
+424,Shrihari Eknathe,Shrihari Eknathe,120190249,Electronic and Telecommunication,9.21
+425,Pratik gaikwad,Pratik gaikwad,120190250,Electrical Engineering,9.30
+426,Sonali Gaikwad,Sonali Gaikwad,120190251,Civil Engineering,9.48
+427,Pratik Ghadge,Pratik Ghadge,120190252,Information Technology,7.25
+428,Amey Ghotankar,Amey Ghotankar,120190253,Computer Science,7.72
+429,Shreyas Golegaonkar,Shreyas Golegaonkar,120190254,Mechnical Engineering,7.59
+430,Swapnil Gore,Swapnil Gore,120190255,Chemical Engineering,9.15
+431,Piyush Gaikwad,Piyush Gaikwad,120190256,Electronic and Telecommunication,7.11
+432,Anagha Haral,Anagha Haral,120190257,Electrical Engineering,7.43
+433,Dhawal Hemane,Dhawal Hemane,120190258,Civil Engineering,9.58
+434,Vivek Ingole,Vivek Ingole,120190259,Information Technology,7.28
+435,Priti Jadhav,Priti Jadhav,120190260,Computer Science,8.03
+436,Atharv kad,Atharv kad,120190261,Mechnical Engineering,7.41
+437,Pratik Kale,Pratik Kale,120190262,Chemical Engineering,8.36
+438,Pratik Kale,Pratik Kale,120190263,Electronic and Telecommunication,8.35
+439,Kapil Khairkar,Kapil Khairkar,120190264,Electrical Engineering,7.84
+440,Priyanka karad,Priyanka karad,120190265,Civil Engineering,7.82
+441,Karanjot Singh,Karanjot Singh,120190266,Information Technology,7.87
+442,Niranjan Khandagale,Niranjan Khandagale,120190267,Computer Science,9.14
+443,Sheha Kharate,Sheha Kharate,120190268,Mechnical Engineering,8.68
+444,Atul Kshirsagar,Atul Kshirsagar,120190269,Chemical Engineering,7.48
+445,Sunil Lad,Sunil Lad,120190270,Electronic and Telecommunication,7.61
+446,Dnyanda Mahajan,Dnyanda Mahajan,120190271,Electrical Engineering,7.29
+447,Suyog Mahangade,Suyog Mahangade,120190272,Civil Engineering,8.02
+448,Vishal Malwade,Vishal Malwade,120190273,Information Technology,9.54
+449,Sahil Mangar,Sahil Mangar,120190274,Computer Science,7.54
+450,Rushikesh Mungase,Rushikesh Mungase,120190275,Mechnical Engineering,8.41
+451,Tanuja Neherkar,Tanuja Neherkar,120190276,Chemical Engineering,7.33
+452,Nayan nirvikar,Nayan nirvikar,120190277,Electronic and Telecommunication,8.89
+453,Suyash Ombale,Suyash Ombale,120190278,Electrical Engineering,8.22
+454,Amey Patil,Amey Patil,120190279,Civil Engineering,7.25
+455,Kshitij Patil,Kshitij Patil,120190280,Information Technology,8.43
+456,Vishal Patil,Vishal Patil,120190281,Computer Science,9.57
+457,Suyash parve,Suyash parve,120190282,Mechnical Engineering,9.47
+458,Hitesh Pardi,Hitesh Pardi,120190283,Chemical Engineering,7.22
+459,Akash Pawar,Akash Pawar,120190284,Electronic and Telecommunication,7.77
+460,Asmita Pawar,Asmita Pawar,120190285,Electrical Engineering,7.59
+461,Nehul Pawar,Nehul Pawar,120190286,Civil Engineering,9.16
+462,Apurva Pete,Apurva Pete,120190287,Information Technology,8.40
+463,Pratham Bharadwaj,Pratham Bharadwaj,120190288,Computer Science,8.59
+464,Purva Potdukhe,Purva Potdukhe,120190289,Mechnical Engineering,8.35
+465,Priyanshi Rai,Priyanshi Rai,120190290,Chemical Engineering,7.31
+466,Shivashish Roy,Shivashish Roy,120190291,Electronic and Telecommunication,8.72
+467,Tanvi Shah,Tanvi Shah,120190292,Electrical Engineering,8.86
+468,Shivya Shrivastav,Shivya Shrivastav,120190293,Civil Engineering,8.51
+469,Shreyash Bhagat,Shreyash Bhagat,120190294,Information Technology,9.08
+470,Mohit Solanki,Mohit Solanki,120190295,Computer Science,8.53
+471,Om Tambe,Om Tambe,120190296,Mechnical Engineering,7.44
+472,Prajyot Undare,Prajyot Undare,120190297,Chemical Engineering,7.58
+473,Atharva Wadpelli,Atharva Wadpelli,120190298,Electronic and Telecommunication,9.05
+474,Adarsh Zamwar,Adarsh Zamwar,120190299,Electrical Engineering,9.14
+475,Tejas Zope,Tejas Zope,120190300,Civil Engineering,9.40
+501,Aditya Birangal,Aditya Birangal,120190301,Information Technology,8.91
+502,Shriharsh Agarwal,Shriharsh Agarwal,120190302,Computer Science,7.65
+503,Yash Agarwal,Yash Agarwal,120190303,Mechnical Engineering,7.96
+504,Nileash Aurade,Nileash Aurade,120190304,Chemical Engineering,8.45
+505,Chetan Bhairaje,Chetan Bhairaje,120190305,Electronic and Telecommunication,9.40
+506,Anuj Barave,Anuj Barave,120190306,Electrical Engineering,9.46
+507,Rushikesh Bawkar,Rushikesh Bawkar,120190307,Civil Engineering,7.56
+508,Muskan Bharadia,Muskan Bharadia,120190308,Information Technology,7.88
+509,Om bharare,Om bharare,120190309,Computer Science,7.63
+510,Anuj Bhaskar,Anuj Bhaskar,120190310,Mechnical Engineering,7.13
+511,Sakshee Chavan,Sakshee Chavan,120190311,Chemical Engineering,8.76
+512,Tushar Dhamdhere,Tushar Dhamdhere,120190312,Electronic and Telecommunication,9.10
+513,Shwetali Desai,Shwetali Desai,120190313,Electrical Engineering,8.96
+514,Pruthviraje Deshmukh,Pruthviraje Deshmukh,120190314,Civil Engineering,8.25
+515,Ashutosh Gandhewar,Ashutosh Gandhewar,120190315,Information Technology,9.43
+516,Dhiraj Gangurde,Dhiraj Gangurde,120190316,Computer Science,7.39
+517,Pallavi Gaikwad,Pallavi Gaikwad,120190317,Mechnical Engineering,7.91
+518,Dilbagh Singh,Dilbagh Singh,120190318,Chemical Engineering,9.28
+519,Harshada Gawade,Harshada Gawade,120190319,Electronic and Telecommunication,7.32
+520,Pradyumna Gayake,Pradyumna Gayake,120190320,Electrical Engineering,7.67
+521,Vaibhav Gengane,Vaibhav Gengane,120190321,Civil Engineering,8.18
+522,Sankalp Ghodke,Sankalp Ghodke,120190322,Information Technology,7.21
+523,Surabhi Ghogare,Surabhi Ghogare,120190323,Computer Science,7.97
+524,Parth Gorwadkar,Parth Gorwadkar,120190324,Mechnical Engineering,8.90
+525,Pratik Hardas,Pratik Hardas,120190325,Chemical Engineering,9.18
+526,Rushikesh Hasabe,Rushikesh Hasabe,120190326,Electronic and Telecommunication,8.60
+527,Omkar Jagdale,Omkar Jagdale,120190327,Electrical Engineering,9.57
+528,Jattien Sharma,Jattien Sharma,120190328,Civil Engineering,8.44
+529,Sanskruti Joshi,Sanskruti Joshi,120190329,Information Technology,9.01
+530,Sanket Kale,Sanket Kale,120190330,Computer Science,7.58
+531,Mrinal kasture,Mrinal kasture,120190331,Mechnical Engineering,8.18
+532,Saurabh Keskar,Saurabh Keskar,120190332,Chemical Engineering,9.47
+533,Sujata Khairkar,Sujata Khairkar,120190333,Electronic and Telecommunication,9.07
+534,Vaibhav Khandare,Vaibhav Khandare,120190334,Electrical Engineering,8.64
+535,Aventika Khemani,Aventika Khemani,120190335,Civil Engineering,8.90
+536,Nikhil Khunde,Nikhil Khunde,120190336,Information Technology,9.48
+537,Samir Kolawale,Samir Kolawale,120190337,Computer Science,7.74
+538,Krishnakant Phate,Krishnakant Phate,120190338,Mechnical Engineering,9.42
+539,Prathamesh Kulkarni,Prathamesh Kulkarni,120190339,Chemical Engineering,9.00
+540,Ramhari Madhukar,Ramhari Madhukar,120190340,Electronic and Telecommunication,7.17
+541,Divyanshu Mamidwar,Divyanshu Mamidwar,120190341,Electrical Engineering,7.39
+542,Prabhu Mane,Prabhu Mane,120190342,Civil Engineering,8.25
+543,Shivam Marathe,Shivam Marathe,120190343,Information Technology,7.76
+544,Abhishek more,Abhishek more,120190344,Computer Science,8.04
+545,Aditya Mukund,Aditya Mukund,120190345,Mechnical Engineering,7.45
+546,Nihal Mulla,Nihal Mulla,120190346,Chemical Engineering,8.10
+547,Shrikant Mundhe,Shrikant Mundhe,120190347,Electronic and Telecommunication,9.50
+548,Vaidehi Nagolkar,Vaidehi Nagolkar,120190348,Electrical Engineering,8.17
+549,Anup Narkhede,Anup Narkhede,120190349,Civil Engineering,7.14
+550,Shreyash Pantawane,Shreyash Pantawane,120190350,Information Technology,8.45
+551,Arjun Pardeshi,Arjun Pardeshi,120190351,Computer Science,8.89
+552,Pratik Parekh,Pratik Parekh,120190352,Mechnical Engineering,8.84
+553,Kunal patil,Kunal patil,120190353,Chemical Engineering,8.87
+554,Sambhuraj Patil,Sambhuraj Patil,120190354,Electronic and Telecommunication,8.55
+555,Ajay Pawar,Ajay Pawar,120190355,Electrical Engineering,8.30
+556,Indrajit Pawar,Indrajit Pawar,120190356,Civil Engineering,9.07
+557,Sujit Pawar,Sujit Pawar,120190357,Information Technology,7.92
+558,Pranav Dherange,Pranav Dherange,120190358,Computer Science,8.10
+559,Abhishek Pund,Abhishek Pund,120190359,Mechnical Engineering,8.49
+560,Prachiti Raut,Prachiti Raut,120190360,Chemical Engineering,8.94
+561,Amol Sahane,Amol Sahane,120190361,Electronic and Telecommunication,7.97
+562,Sakshi Londhe,Sakshi Londhe,120190362,Electrical Engineering,8.45
+563,Pranav Salunkhe,Pranav Salunkhe,120190363,Civil Engineering,8.55
+564,Saif Sayyad,Saif Sayyad,120190364,Information Technology,8.53
+565,MiteshShah,MiteshShah,120190365,Computer Science,8.06
+566,Somu Sharma,Somu Sharma,120190366,Mechnical Engineering,7.61
+567,Rishav Sinha,Rishav Sinha,120190367,Chemical Engineering,8.75
+568,Tadvi Mahemood,Tadvi Mahemood,120190368,Electronic and Telecommunication,8.46
+569,Aarti Tile,Aarti Tile,120190369,Electrical Engineering,9.32
+570,Vaibhav Devshatwar,Vaibhav Devshatwar,120190370,Civil Engineering,7.30
+571,Amey Vaikar,Amey Vaikar,120190371,Information Technology,8.79
+572,Vivek Shambharkar,Vivek Shambharkar,120190372,Computer Science,7.59
+573,Yadnesh Vidyasagar,Yadnesh Vidyasagar,120190373,Mechnical Engineering,7.27
+574,Samyak Zhodape,Samyak Zhodape,120190374,Chemical Engineering,7.75
+575,Adil Shaikh,Adil Shaikh,120190375,Electronic and Telecommunication,7.88
+601,Aditya Kumar,Aditya Kumar,120190376,Electrical Engineering,9.43
+602,Sanchit agarkar,Sanchit agarkar,120190377,Civil Engineering,7.31
+603,Ankur Powar,Ankur Powar,120190378,Information Technology,8.86
+604,Anushka Yadav,Anushka Yadav,120190379,Computer Science,8.24
+605,Atharva Konde,Atharva Konde,120190380,Mechnical Engineering,9.07
+606,Atharva Batwe,Atharva Batwe,120190381,Chemical Engineering,7.12
+607,Vaishavi Bhandale,Vaishavi Bhandale,120190382,Electronic and Telecommunication,8.97
+608,Tejas Bobe,Tejas Bobe,120190383,Electrical Engineering,9.23
+609,Gokul Chandere,Gokul Chandere,120190384,Civil Engineering,8.26
+610,Mangesh Chavan,Mangesh Chavan,120190385,Information Technology,8.04
+611,Prathamesh Chavan,Prathamesh Chavan,120190386,Computer Science,7.64
+612,Janardhan Chikale,Janardhan Chikale,120190387,Mechnical Engineering,8.21
+613,Avinash Chaudhary,Avinash Chaudhary,120190388,Chemical Engineering,9.08
+614,Yeeshant Dahikar,Yeeshant Dahikar,120190389,Electronic and Telecommunication,7.62
+615,Piyush Deore,Piyush Deore,120190390,Electrical Engineering,7.25
+616,Aayush Deshpande,Aayush Deshpande,120190391,Civil Engineering,8.69
+617,Pallavi Deshpande,Pallavi Deshpande,120190392,Information Technology,8.00
+618,Vrushank Dhake,Vrushank Dhake,120190393,Computer Science,7.63
+619,Krishna Dhote,Krishna Dhote,120190394,Mechnical Engineering,8.11
+620,Vivek Endole,Vivek Endole,120190395,Chemical Engineering,9.34
+621,Tushar Gavkhare,Tushar Gavkhare,120190396,Electronic and Telecommunication,7.25
+622,Mayur Ghodekar,Mayur Ghodekar,120190397,Electrical Engineering,8.33
+623,Niranjan Girhe,Niranjan Girhe,120190398,Civil Engineering,7.83
+624,Hrushikesh Chapke,Hrushikesh Chapke,120190399,Information Technology,8.11
+625,Prasad Hule,Prasad Hule,120190400,Computer Science,9.55
+626,Durgesh Jadhav,Durgesh Jadhav,120190401,Mechnical Engineering,8.51
+627,manali Jadhav,manali Jadhav,120190402,Chemical Engineering,8.59
+628,Hrikesh Jathar,Hrikesh Jathar,120190403,Electronic and Telecommunication,7.64
+629,Nishant Kadam,Nishant Kadam,120190404,Electrical Engineering,7.65
+630,Vedant Kanate,Vedant Kanate,120190405,Civil Engineering,8.49
+631,Siddharth Kanikdale,Siddharth Kanikdale,120190406,Information Technology,9.20
+632,Tejas Khandait,Tejas Khandait,120190407,Computer Science,7.95
+633,Tushar Khapne,Tushar Khapne,120190408,Mechnical Engineering,9.18
+634,Samadhan Kolekar,Samadhan Kolekar,120190409,Chemical Engineering,8.41
+635,Sakshe Kolhe,Sakshe Kolhe,120190410,Electronic and Telecommunication,7.32
+636,Nisarg Kutwal,Nisarg Kutwal,120190411,Electrical Engineering,7.81
+637,Madhu Singh,Madhu Singh,120190412,Civil Engineering,8.06
+638,Amit Mane,Amit Mane,120190413,Information Technology,8.57
+639,Mayank Raj Saha,Mayank Raj Saha,120190414,Computer Science,7.69
+640,Mihir Korde,Mihir Korde,120190415,Mechnical Engineering,7.93
+641,Krishnakant Nageshwar,Krishnakant Nageshwar,120190416,Chemical Engineering,7.88
+642,Siddhi Naik,Siddhi Naik,120190417,Electronic and Telecommunication,9.56
+643,Saumitra Nashikkar,Saumitra Nashikkar,120190418,Electrical Engineering,8.83
+644,Rohan nikam,Rohan nikam,120190419,Civil Engineering,7.97
+645,Omkar Pawar,Omkar Pawar,120190420,Information Technology,8.41
+646,Sanket pande,Sanket pande,120190421,Computer Science,8.73
+647,Parth Shrivastava,Parth Shrivastava,120190422,Mechnical Engineering,8.40
+648,Aman Patil,Aman Patil,120190423,Chemical Engineering,7.71
+649,Vaibhav Patil,Vaibhav Patil,120190424,Electronic and Telecommunication,8.57
+650,Anushka Pawar,Anushka Pawar,120190425,Electrical Engineering,9.20
+651,Saurabh Powar,Saurabh Powar,120190426,Civil Engineering,9.33
+652,Pratik Patil,Pratik Patil,120190427,Information Technology,8.13
+653,Sejal Ramteke,Sejal Ramteke,120190428,Computer Science,7.21
+654,Kaustubh Rathod,Kaustubh Rathod,120190429,Mechnical Engineering,7.90
+655,Rishrab raj,Rishrab raj,120190430,Chemical Engineering,9.32
+656,Ritik Bhasarkar,Ritik Bhasarkar,120190431,Electronic and Telecommunication,7.59
+657,Chetan Samrit,Chetan Samrit,120190432,Electrical Engineering,8.02
+658,Saubhagya Monal,Saubhagya Monal,120190433,Civil Engineering,7.73
+659,Pratik Saurkar,Pratik Saurkar,120190434,Information Technology,8.12
+660,Sejal Abrol,Sejal Abrol,120190435,Computer Science,7.81
+661,Vaibhav Shelake,Vaibhav Shelake,120190436,Mechnical Engineering,8.24
+662,Chatak Shinde,Chatak Shinde,120190437,Chemical Engineering,7.88
+663,Aaditya Shirsat,Aaditya Shirsat,120190438,Electronic and Telecommunication,8.08
+664,Shruti Sharma,Shruti Sharma,120190439,Electrical Engineering,7.64
+665,Nikhil Sonawane,Nikhil Sonawane,120190440,Civil Engineering,8.20
+666,Sagar Tangade,Sagar Tangade,120190441,Information Technology,9.29
+667,Tanmay joshi,Tanmay joshi,120190442,Computer Science,7.37
+668,Atharv Udavant,Atharv Udavant,120190443,Mechnical Engineering,8.72
+669,Siddhesh Ugale,Siddhesh Ugale,120190444,Chemical Engineering,7.37
+670,Pranav Unkule,Pranav Unkule,120190445,Electronic and Telecommunication,7.19
+671,Vaishnavi Gaikwad,Vaishnavi Gaikwad,120190446,Electrical Engineering,9.40
+672,Anbhishek Wagh,Anbhishek Wagh,120190447,Civil Engineering,8.83
+673,Prajwal Wankhede,Prajwal Wankhede,120190448,Information Technology,7.59
+674,Prathamesh Waykar,Prathamesh Waykar,120190449,Computer Science,7.25
+675,Aayushi Deshpande,Aayushi Deshpande,120190450,Mechnical Engineering,8.56
+701,Aayush pandey,Aayush pandey,120190451,Chemical Engineering,9.31
+702,Abhishek Mishra,Abhishek Mishra,120190452,Electronic and Telecommunication,7.99
+703,Aniket,Aniket,120190453,Electrical Engineering,7.96
+704,Aniket Sharma,Aniket Sharma,120190454,Civil Engineering,8.89
+705,Anirudh Kabya,Anirudh Kabya,120190455,Information Technology,8.32
+706,Arya Kashyap,Arya Kashyap,120190456,Computer Science,8.62
+707,Ashwini Raddekar,Ashwini Raddekar,120190457,Mechnical Engineering,8.30
+708,Aditya Bhatule,Aditya Bhatule,120190458,Chemical Engineering,9.24
+709,Vaishnavi Bhagwat,Vaishnavi Bhagwat,120190459,Electronic and Telecommunication,8.37
+710,Adinath Bhise,Adinath Bhise,120190460,Electrical Engineering,8.99
+711,Vinayak Chavan,Vinayak Chavan,120190461,Civil Engineering,9.36
+712,Kshitij Dharwekar,Kshitij Dharwekar,120190462,Information Technology,7.62
+713,Vedant Dawange,Vedant Dawange,120190463,Computer Science,9.01
+714,Harishchandra Deore,Harishchandra Deore,120190464,Mechnical Engineering,7.84
+715,Vaishnavi Deshmukh,Vaishnavi Deshmukh,120190465,Chemical Engineering,8.91
+716,Vikas Deshmukh,Vikas Deshmukh,120190466,Electronic and Telecommunication,9.53
+717,Aditi Deshpande,Aditi Deshpande,120190467,Electrical Engineering,8.05
+718,Dewansh Singh,Dewansh Singh,120190468,Civil Engineering,7.15
+719,Vaishnavi Divnale,Vaishnavi Divnale,120190469,Information Technology,9.45
+720,Chaitany Dumbre,Chaitany Dumbre,120190470,Computer Science,9.33
+721,Yash Fuljale,Yash Fuljale,120190471,Mechnical Engineering,8.84
+722,Triveni Gaidhane,Triveni Gaidhane,120190472,Chemical Engineering,8.82
+723,Shreya Gaikwad,Shreya Gaikwad,120190473,Electronic and Telecommunication,8.77
+724,Govind Gawande,Govind Gawande,120190474,Electrical Engineering,8.38
+725, Vedant Ghodki, Vedant Ghodki,120190475,Civil Engineering,7.43
+726,Sachin halikhede,Sachin halikhede,120190476,Information Technology,9.31
+727,Shreyamsh Jadhav,Shreyamsh Jadhav,120190477,Computer Science,7.94
+728,Vaishnavi Jadhav,Vaishnavi Jadhav,120190478,Mechnical Engineering,8.34
+729,Tejas Jagtap,Tejas Jagtap,120190479,Chemical Engineering,8.98
+730,Siddharth Jha,Siddharth Jha,120190480,Electronic and Telecommunication,8.07
+731,Kakshank Jumade,Kakshank Jumade,120190481,Electrical Engineering,9.17
+732,Jaydeep kakde,Jaydeep kakde,120190482,Civil Engineering,7.65
+733,Kalp Chobisa,Kalp Chobisa,120190483,Information Technology,8.19
+734,Aniket Kedar,Aniket Kedar,120190484,Computer Science,7.47
+735,Shubham Kendre,Shubham Kendre,120190485,Mechnical Engineering,7.78
+736,Vyankatesh Khandke,Vyankatesh Khandke,120190486,Chemical Engineering,8.98
+737,Praktan Khatavkar,Praktan Khatavkar,120190487,Electronic and Telecommunication,7.61
+738,Sudarshan Kolarkar,Sudarshan Kolarkar,120190488,Electrical Engineering,7.84
+739,Shubham Kotkar,Shubham Kotkar,120190489,Civil Engineering,9.45
+740,Nanul Kumar,Nanul Kumar,120190490,Information Technology,7.93
+741,Sanket Mahajan,Sanket Mahajan,120190491,Computer Science,7.27
+742,Sumit Mahajan,Sumit Mahajan,120190492,Mechnical Engineering,8.30
+743,Manoranjan jena,Manoranjan jena,120190493,Chemical Engineering,9.35
+744,Mayuresh Kumar,Mayuresh Kumar,120190494,Electronic and Telecommunication,8.13
+745,Anshul Meshram,Anshul Meshram,120190495,Electrical Engineering,9.58
+746,Manoranjan Mundagal,Manoranjan Mundagal,120190496,Civil Engineering,7.25
+747,Vedant Mukhedar,Vedant Mukhedar,120190497,Information Technology,8.11
+748,Radha nadar,Radha nadar,120190498,Computer Science,7.79
+749,Sushant Pardhi,Sushant Pardhi,120190499,Mechnical Engineering,9.26
+750,Sumedh Patil,Sumedh Patil,120190500,Chemical Engineering,9.09
+751,Mayur Pawar,Mayur Pawar,120190501,Electronic and Telecommunication,9.08
+752,Piyush Walde,Piyush Walde,120190502,Electrical Engineering,8.16
+753,Rahul Pradhan,Rahul Pradhan,120190503,Civil Engineering,7.52
+754,Tanaya Raut,Tanaya Raut,120190504,Information Technology,9.30
+755,Vedika Raut,Vedika Raut,120190505,Computer Science,8.29
+756,Rajesh Sahoo,Rajesh Sahoo,120190506,Mechnical Engineering,9.13
+757,Vnayak Smyak,Vnayak Smyak,120190507,Chemical Engineering,7.17
+758,Adesh Shendkar,Adesh Shendkar,120190508,Electronic and Telecommunication,7.82
+759,kaushal Shetty,kaushal Shetty,120190509,Electrical Engineering,7.36
+760,Atharva Shinde,Atharva Shinde,120190510,Civil Engineering,7.91
+761,Shraddha Shinde,Shraddha Shinde,120190511,Information Technology,8.28
+762,Siddhant Tupsakhare,Siddhant Tupsakhare,120190512,Computer Science,9.20
+763,Siddhesh Nimawat,Siddhesh Nimawat,120190513,Mechnical Engineering,7.61
+764,Smriti,Smriti,120190514,Chemical Engineering,9.14
+765,Vanshika Sonekar,Vanshika Sonekar,120190515,Electronic and Telecommunication,8.23
+766,Sovik Sharma,Sovik Sharma,120190516,Electrical Engineering,8.07
+767,Divya Tadas,Divya Tadas,120190517,Civil Engineering,8.85
+768,Yash Umbarkar,Yash Umbarkar,120190518,Information Technology,7.90
+769,Shivam Tosshniwal,Shivam Tosshniwal,120190519,Computer Science,9.23
+770,Vedantika Eagh,Vedantika Eagh,120190520,Mechnical Engineering,7.51
+771,Aaditya Wani,Aaditya Wani,120190521,Chemical Engineering,8.60
+772,Viraj yadav,Viraj yadav,120190522,Electronic and Telecommunication,7.75
+773,Yash Sakhale,Yash Sakhale,120190523,Electrical Engineering,9.41
+774,Atharv Yeole,Atharv Yeole,120190524,Civil Engineering,7.80
+775,Durgesg Fateknar,Durgesg Fateknar,120190525,Information Technology,8.81
+801,Chinmayi Alshetty,Chinmayi Alshetty,120190526,Computer Science,8.54
+802,Amit Kumar,Amit Kumar,120190527,Mechnical Engineering,9.42
+803,Rajiv Amol,Rajiv Amol,120190528,Chemical Engineering,7.52
+804,Sneha Athawale,Sneha Athawale,120190529,Electronic and Telecommunication,8.35
+805,Harshvardhan Barge,Harshvardhan Barge,120190530,Electrical Engineering,7.35
+806,Meet Bedmutha,Meet Bedmutha,120190531,Civil Engineering,8.17
+807,Aishwarya Bhalme,Aishwarya Bhalme,120190532,Information Technology,8.94
+808,Pranav Bhujbal,Pranav Bhujbal,120190533,Computer Science,7.38
+809,Aditya Bodke,Aditya Bodke,120190534,Mechnical Engineering,8.87
+810,Aditi Borkar,Aditi Borkar,120190535,Chemical Engineering,8.85
+811,Chandan Yadav,Chandan Yadav,120190536,Electronic and Telecommunication,9.04
+812,Kaushal Chaudhari,Kaushal Chaudhari,120190537,Electrical Engineering,7.29
+813,Vaibhavi Chopade,Vaibhavi Chopade,120190538,Civil Engineering,7.37
+814,Dakshay Kumar,Dakshay Kumar,120190539,Information Technology,9.30
+815,Saharsh Dalal,Saharsh Dalal,120190540,Computer Science,8.04
+816,Devashish Dani,Devashish Dani,120190541,Mechnical Engineering,9.08
+817,Harshal Deshmukh,Harshal Deshmukh,120190542,Chemical Engineering,8.39
+818,Vinayak Deshpande,Vinayak Deshpande,120190543,Electronic and Telecommunication,7.16
+819,Yeash Deshpande,Yeash Deshpande,120190544,Electrical Engineering,9.11
+820,Om dhamdhere,Om dhamdhere,120190545,Civil Engineering,7.12
+821,Mahit Dhande,Mahit Dhande,120190546,Information Technology,9.23
+822,Abhijeet Dhanwate,Abhijeet Dhanwate,120190547,Computer Science,7.24
+823,Namrata Dhobale,Namrata Dhobale,120190548,Mechnical Engineering,8.65
+824,Shruti Diwate,Shruti Diwate,120190549,Chemical Engineering,8.20
+825,Suchand Dongare,Suchand Dongare,120190550,Electronic and Telecommunication,8.05
+826,Azhar Dongre,Azhar Dongre,120190551,Electrical Engineering,8.77
+827,Fardeen Khan,Fardeen Khan,120190552,Civil Engineering,8.43
+828,Samiksha Gade,Samiksha Gade,120190553,Information Technology,8.93
+829,Ridhesh Gadre,Ridhesh Gadre,120190554,Computer Science,8.16
+830,Shyamal Gaurav,Shyamal Gaurav,120190555,Mechnical Engineering,8.44
+831,Abhay Gondane,Abhay Gondane,120190556,Chemical Engineering,9.54
+832,Harsh Bhosale,Harsh Bhosale,120190557,Electronic and Telecommunication,8.74
+833,Santoshi Hatte,Santoshi Hatte,120190558,Electrical Engineering,9.44
+834,Pranav hatwar,Pranav hatwar,120190559,Civil Engineering,9.49
+835,Hitanshu Macchi,Hitanshu Macchi,120190560,Information Technology,7.36
+836,Smita jadhav,Smita jadhav,120190561,Computer Science,7.91
+837,Megraj jawale,Megraj jawale,120190562,Mechnical Engineering,8.46
+838,Swateja Kad,Swateja Kad,120190563,Chemical Engineering,9.23
+839,Asavari Kalse,Asavari Kalse,120190564,Electronic and Telecommunication,8.06
+840,Samruddhi kedari,Samruddhi kedari,120190565,Electrical Engineering,8.16
+841,Keshav Dubey,Keshav Dubey,120190566,Civil Engineering,9.41
+842,Adwait Kharkar,Adwait Kharkar,120190567,Information Technology,7.85
+843,Rutuja Kokate,Rutuja Kokate,120190568,Computer Science,9.29
+844,Krushna Kolase,Krushna Kolase,120190569,Mechnical Engineering,9.28
+845,Rohan Kotkar,Rohan Kotkar,120190570,Chemical Engineering,7.52
+846,Kanket Kurai,Kanket Kurai,120190571,Electronic and Telecommunication,7.83
+847,Manohar Lalit,Manohar Lalit,120190572,Electrical Engineering,9.03
+848,Luv Sharma,Luv Sharma,120190573,Civil Engineering,7.46
+849,Omkar Mahale,Omkar Mahale,120190574,Information Technology,7.86
+850,Abhishek mali,Abhishek mali,120190575,Computer Science,7.43
+851,Rohit Mundhe,Rohit Mundhe,120190576,Mechnical Engineering,8.94
+852,Ganesh Naik,Ganesh Naik,120190577,Chemical Engineering,8.23
+853,Sanket Nangare,Sanket Nangare,120190578,Electronic and Telecommunication,8.93
+854,Rutika Narhare,Rutika Narhare,120190579,Electrical Engineering,9.44
+855,Shivaji Nawale,Shivaji Nawale,120190580,Civil Engineering,7.31
+856,Abhishek nayak,Abhishek nayak,120190581,Information Technology,8.05
+857,Neeraj sharma,Neeraj sharma,120190582,Computer Science,7.30
+858,Aditya Neware,Aditya Neware,120190583,Mechnical Engineering,7.27
+859,Ashwini Neware,Ashwini Neware,120190584,Chemical Engineering,9.55
+860,Uday Padole,Uday Padole,120190585,Electronic and Telecommunication,7.18
+861,Raj Pandey,Raj Pandey,120190586,Electrical Engineering,8.75
+862,Vipul Patel,Vipul Patel,120190587,Civil Engineering,9.38
+863,Adarsh Pawar,Adarsh Pawar,120190588,Information Technology,7.97
+864,Laukik Pawle,Laukik Pawle,120190589,Computer Science,9.13
+865,Rajwansh Singh,Rajwansh Singh,120190590,Mechnical Engineering,8.04
+866,Rohitgir Gosavi,Rohitgir Gosavi,120190591,Chemical Engineering,7.82
+867,Sanika Pareek,Sanika Pareek,120190592,Electronic and Telecommunication,7.88
+868,Nilima Satote,Nilima Satote,120190593,Electrical Engineering,9.36
+869,Tejar Shar,Tejar Shar,120190594,Civil Engineering,9.07
+870,Shreyash Moundekar,Shreyash Moundekar,120190595,Information Technology,7.10
+871,Shreyash Thorat,Shreyash Thorat,120190596,Computer Science,8.74
+872,Anuj Tonge,Anuj Tonge,120190597,Mechnical Engineering,7.46
+873,Pratik Vibhute,Pratik Vibhute,120190598,Chemical Engineering,8.92
+874,Vitthal Sai Kaul,Vitthal Sai Kaul,120190599,Electronic and Telecommunication,8.23
+875,Prerna Painter,Prerna Painter,120190600,Electrical Engineering,7.12
